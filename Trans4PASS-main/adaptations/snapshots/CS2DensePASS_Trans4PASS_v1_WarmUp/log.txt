@@ -1,0 +1,1314 @@
+INFO: <All keys matched successfully>
+INFO: 
+--- load TEST dataset ---
+INFO: iter =        0/   11000, loss_seg = 0.111, loss_adv = 0.689 loss_D = 0.694
+INFO: iter =       10/   11000, loss_seg = 1.800, loss_adv = 0.711 loss_D = 0.678
+INFO: iter =       20/   11000, loss_seg = 0.927, loss_adv = 1.155 loss_D = 0.626
+INFO: iter =       30/   11000, loss_seg = 0.900, loss_adv = 0.762 loss_D = 0.651
+INFO: iter =       40/   11000, loss_seg = 0.441, loss_adv = 0.758 loss_D = 0.649
+INFO: iter =       50/   11000, loss_seg = 0.611, loss_adv = 0.970 loss_D = 0.564
+INFO: iter =       60/   11000, loss_seg = 0.536, loss_adv = 0.793 loss_D = 0.704
+INFO: iter =       70/   11000, loss_seg = 0.454, loss_adv = 1.122 loss_D = 0.531
+INFO: iter =       80/   11000, loss_seg = 0.251, loss_adv = 1.121 loss_D = 0.549
+INFO: iter =       90/   11000, loss_seg = 0.399, loss_adv = 1.585 loss_D = 0.619
+INFO: iter =      100/   11000, loss_seg = 0.140, loss_adv = 1.037 loss_D = 0.604
+INFO: iter =      110/   11000, loss_seg = 0.253, loss_adv = 1.211 loss_D = 0.586
+INFO: iter =      120/   11000, loss_seg = 2.094, loss_adv = 1.182 loss_D = 0.601
+INFO: iter =      130/   11000, loss_seg = 0.267, loss_adv = 1.309 loss_D = 0.602
+INFO: iter =      140/   11000, loss_seg = 0.203, loss_adv = 1.617 loss_D = 0.491
+INFO: iter =      150/   11000, loss_seg = 0.415, loss_adv = 1.201 loss_D = 0.576
+INFO: iter =      160/   11000, loss_seg = 0.123, loss_adv = 1.552 loss_D = 0.479
+INFO: iter =      170/   11000, loss_seg = 0.333, loss_adv = 1.384 loss_D = 0.525
+INFO: iter =      180/   11000, loss_seg = 0.134, loss_adv = 1.525 loss_D = 0.548
+INFO: iter =      190/   11000, loss_seg = 0.988, loss_adv = 1.074 loss_D = 0.586
+INFO: iter =      200/   11000, loss_seg = 0.316, loss_adv = 1.417 loss_D = 0.495
+INFO: iter =      210/   11000, loss_seg = 0.446, loss_adv = 1.587 loss_D = 0.676
+INFO: iter =      220/   11000, loss_seg = 0.247, loss_adv = 1.262 loss_D = 0.496
+INFO: iter =      230/   11000, loss_seg = 0.165, loss_adv = 1.100 loss_D = 0.599
+INFO: iter =      240/   11000, loss_seg = 0.268, loss_adv = 1.230 loss_D = 0.471
+INFO: iter =      250/   11000, loss_seg = 0.233, loss_adv = 1.417 loss_D = 0.635
+INFO: iter =      260/   11000, loss_seg = 0.737, loss_adv = 1.370 loss_D = 0.625
+INFO: iter =      270/   11000, loss_seg = 0.222, loss_adv = 1.492 loss_D = 0.455
+INFO: iter =      280/   11000, loss_seg = 0.202, loss_adv = 1.914 loss_D = 0.597
+INFO: iter =      290/   11000, loss_seg = 0.735, loss_adv = 1.534 loss_D = 0.450
+INFO: iter =      300/   11000, loss_seg = 0.426, loss_adv = 1.084 loss_D = 0.619
+INFO: iter =      310/   11000, loss_seg = 0.285, loss_adv = 1.318 loss_D = 0.505
+INFO: iter =      320/   11000, loss_seg = 0.136, loss_adv = 1.205 loss_D = 0.483
+INFO: iter =      330/   11000, loss_seg = 0.591, loss_adv = 1.270 loss_D = 0.571
+INFO: iter =      340/   11000, loss_seg = 0.199, loss_adv = 1.271 loss_D = 0.491
+INFO: iter =      350/   11000, loss_seg = 0.336, loss_adv = 1.748 loss_D = 0.472
+INFO: iter =      360/   11000, loss_seg = 0.636, loss_adv = 1.220 loss_D = 0.546
+INFO: iter =      370/   11000, loss_seg = 0.142, loss_adv = 1.685 loss_D = 0.462
+INFO: iter =      380/   11000, loss_seg = 0.168, loss_adv = 1.980 loss_D = 0.506
+INFO: iter =      390/   11000, loss_seg = 0.158, loss_adv = 1.773 loss_D = 0.437
+INFO: iter =      400/   11000, loss_seg = 0.685, loss_adv = 2.166 loss_D = 0.768
+INFO: iter =      410/   11000, loss_seg = 0.244, loss_adv = 1.062 loss_D = 0.574
+INFO: iter =      420/   11000, loss_seg = 0.249, loss_adv = 1.829 loss_D = 0.445
+INFO: iter =      430/   11000, loss_seg = 0.162, loss_adv = 2.498 loss_D = 0.423
+INFO: iter =      440/   11000, loss_seg = 0.438, loss_adv = 1.503 loss_D = 0.473
+INFO: iter =      450/   11000, loss_seg = 0.465, loss_adv = 1.412 loss_D = 0.528
+INFO: iter =      460/   11000, loss_seg = 0.537, loss_adv = 1.600 loss_D = 0.511
+INFO: iter =      470/   11000, loss_seg = 0.272, loss_adv = 1.629 loss_D = 0.508
+INFO: iter =      480/   11000, loss_seg = 0.258, loss_adv = 2.125 loss_D = 0.327
+INFO: iter =      490/   11000, loss_seg = 0.254, loss_adv = 1.493 loss_D = 0.509
+INFO: iter =      500/   11000, loss_seg = 0.136, loss_adv = 1.345 loss_D = 0.502
+INFO: iter =      510/   11000, loss_seg = 0.364, loss_adv = 1.410 loss_D = 0.596
+INFO: iter =      520/   11000, loss_seg = 0.219, loss_adv = 2.435 loss_D = 0.436
+INFO: iter =      530/   11000, loss_seg = 0.165, loss_adv = 2.213 loss_D = 0.404
+INFO: iter =      540/   11000, loss_seg = 0.143, loss_adv = 1.656 loss_D = 0.512
+INFO: iter =      550/   11000, loss_seg = 0.244, loss_adv = 1.502 loss_D = 0.475
+INFO: iter =      560/   11000, loss_seg = 0.232, loss_adv = 1.585 loss_D = 0.493
+INFO: iter =      570/   11000, loss_seg = 0.074, loss_adv = 1.981 loss_D = 0.396
+INFO: iter =      580/   11000, loss_seg = 0.236, loss_adv = 2.616 loss_D = 0.382
+INFO: iter =      590/   11000, loss_seg = 0.123, loss_adv = 2.450 loss_D = 0.399
+INFO: iter =      600/   11000, loss_seg = 0.099, loss_adv = 1.783 loss_D = 0.472
+INFO: iter =      610/   11000, loss_seg = 0.332, loss_adv = 1.969 loss_D = 0.471
+INFO: iter =      620/   11000, loss_seg = 0.211, loss_adv = 1.590 loss_D = 0.550
+INFO: iter =      630/   11000, loss_seg = 0.181, loss_adv = 1.335 loss_D = 0.453
+INFO: iter =      640/   11000, loss_seg = 0.140, loss_adv = 1.822 loss_D = 0.383
+INFO: iter =      650/   11000, loss_seg = 0.261, loss_adv = 1.535 loss_D = 0.442
+INFO: iter =      660/   11000, loss_seg = 0.201, loss_adv = 1.765 loss_D = 0.545
+INFO: iter =      670/   11000, loss_seg = 0.102, loss_adv = 2.027 loss_D = 0.338
+INFO: iter =      680/   11000, loss_seg = 0.412, loss_adv = 1.913 loss_D = 0.416
+INFO: iter =      690/   11000, loss_seg = 0.214, loss_adv = 2.169 loss_D = 0.408
+INFO: iter =      700/   11000, loss_seg = 0.170, loss_adv = 1.497 loss_D = 0.473
+INFO: iter =      710/   11000, loss_seg = 0.164, loss_adv = 1.399 loss_D = 0.446
+INFO: iter =      720/   11000, loss_seg = 0.218, loss_adv = 1.637 loss_D = 0.417
+INFO: iter =      730/   11000, loss_seg = 0.190, loss_adv = 1.591 loss_D = 0.488
+INFO: iter =      740/   11000, loss_seg = 0.149, loss_adv = 1.735 loss_D = 0.580
+INFO: iter =      750/   11000, loss_seg = 0.168, loss_adv = 1.649 loss_D = 0.555
+INFO: iter =      760/   11000, loss_seg = 0.101, loss_adv = 1.449 loss_D = 0.452
+INFO: iter =      770/   11000, loss_seg = 0.233, loss_adv = 2.638 loss_D = 0.405
+INFO: iter =      780/   11000, loss_seg = 0.165, loss_adv = 1.356 loss_D = 0.483
+INFO: iter =      790/   11000, loss_seg = 0.132, loss_adv = 2.088 loss_D = 0.352
+INFO: iter =      800/   11000, loss_seg = 0.137, loss_adv = 1.874 loss_D = 0.467
+INFO: iter =      810/   11000, loss_seg = 0.199, loss_adv = 2.401 loss_D = 0.531
+INFO: iter =      820/   11000, loss_seg = 0.189, loss_adv = 1.643 loss_D = 0.489
+INFO: iter =      830/   11000, loss_seg = 0.285, loss_adv = 1.418 loss_D = 0.477
+INFO: iter =      840/   11000, loss_seg = 0.132, loss_adv = 2.581 loss_D = 0.408
+INFO: iter =      850/   11000, loss_seg = 0.211, loss_adv = 1.592 loss_D = 0.475
+INFO: iter =      860/   11000, loss_seg = 0.158, loss_adv = 1.869 loss_D = 0.360
+INFO: iter =      870/   11000, loss_seg = 0.154, loss_adv = 2.654 loss_D = 0.379
+INFO: iter =      880/   11000, loss_seg = 0.121, loss_adv = 2.272 loss_D = 0.432
+INFO: iter =      890/   11000, loss_seg = 0.201, loss_adv = 1.230 loss_D = 0.520
+INFO: iter =      900/   11000, loss_seg = 0.346, loss_adv = 3.568 loss_D = 0.278
+INFO: iter =      910/   11000, loss_seg = 0.178, loss_adv = 2.198 loss_D = 0.396
+INFO: iter =      920/   11000, loss_seg = 0.207, loss_adv = 1.655 loss_D = 0.466
+INFO: iter =      930/   11000, loss_seg = 0.148, loss_adv = 2.161 loss_D = 0.369
+INFO: iter =      940/   11000, loss_seg = 0.199, loss_adv = 1.847 loss_D = 0.440
+INFO: iter =      950/   11000, loss_seg = 0.217, loss_adv = 1.664 loss_D = 0.493
+INFO: iter =      960/   11000, loss_seg = 0.266, loss_adv = 2.171 loss_D = 0.538
+INFO: iter =      970/   11000, loss_seg = 0.224, loss_adv = 2.012 loss_D = 0.466
+INFO: iter =      980/   11000, loss_seg = 0.257, loss_adv = 2.523 loss_D = 0.516
+INFO: iter =      990/   11000, loss_seg = 0.192, loss_adv = 1.648 loss_D = 0.458
+INFO: iter =     1000/   11000, loss_seg = 0.181, loss_adv = 2.863 loss_D = 0.406
+INFO: taking snapshot ...
+INFO: ===>road           :	73.34
+INFO: ===>sidewalk       :	36.99
+INFO: ===>building       :	82.52
+INFO: ===>wall           :	26.59
+INFO: ===>fence          :	32.49
+INFO: ===>pole           :	29.47
+INFO: ===>light          :	17.49
+INFO: ===>sign           :	14.06
+INFO: ===>vegetation     :	77.33
+INFO: ===>terrain        :	32.22
+INFO: ===>sky            :	90.55
+INFO: ===>person         :	32.22
+INFO: ===>rider          :	15.39
+INFO: ===>car            :	77.57
+INFO: ===>truck          :	42.24
+INFO: ===>bus            :	28.66
+INFO: ===>train          :	36.12
+INFO: ===>motocycle      :	57.74
+INFO: ===>bicycle        :	29.71
+INFO: ===> mIoU: 43.83
+INFO: iter =     1010/   11000, loss_seg = 0.190, loss_adv = 2.783 loss_D = 0.468
+INFO: iter =     1020/   11000, loss_seg = 0.148, loss_adv = 2.261 loss_D = 0.394
+INFO: iter =     1030/   11000, loss_seg = 0.132, loss_adv = 2.142 loss_D = 0.492
+INFO: iter =     1040/   11000, loss_seg = 0.104, loss_adv = 3.677 loss_D = 0.256
+INFO: iter =     1050/   11000, loss_seg = 0.137, loss_adv = 2.162 loss_D = 0.325
+INFO: iter =     1060/   11000, loss_seg = 0.123, loss_adv = 1.682 loss_D = 0.594
+INFO: iter =     1070/   11000, loss_seg = 0.111, loss_adv = 2.099 loss_D = 0.451
+INFO: iter =     1080/   11000, loss_seg = 0.575, loss_adv = 2.411 loss_D = 0.385
+INFO: iter =     1090/   11000, loss_seg = 0.168, loss_adv = 3.332 loss_D = 0.399
+INFO: iter =     1100/   11000, loss_seg = 0.106, loss_adv = 2.146 loss_D = 0.443
+INFO: iter =     1110/   11000, loss_seg = 0.163, loss_adv = 2.911 loss_D = 0.464
+INFO: iter =     1120/   11000, loss_seg = 0.182, loss_adv = 1.277 loss_D = 0.557
+INFO: iter =     1130/   11000, loss_seg = 0.099, loss_adv = 3.109 loss_D = 0.299
+INFO: iter =     1140/   11000, loss_seg = 0.202, loss_adv = 1.610 loss_D = 0.561
+INFO: iter =     1150/   11000, loss_seg = 0.226, loss_adv = 4.222 loss_D = 0.376
+INFO: iter =     1160/   11000, loss_seg = 0.330, loss_adv = 3.804 loss_D = 0.429
+INFO: iter =     1170/   11000, loss_seg = 0.139, loss_adv = 3.667 loss_D = 0.329
+INFO: iter =     1180/   11000, loss_seg = 0.196, loss_adv = 3.311 loss_D = 0.334
+INFO: iter =     1190/   11000, loss_seg = 0.209, loss_adv = 2.120 loss_D = 0.388
+INFO: iter =     1200/   11000, loss_seg = 0.057, loss_adv = 1.769 loss_D = 0.411
+INFO: iter =     1210/   11000, loss_seg = 0.155, loss_adv = 3.539 loss_D = 0.368
+INFO: iter =     1220/   11000, loss_seg = 0.135, loss_adv = 1.620 loss_D = 0.435
+INFO: iter =     1230/   11000, loss_seg = 0.138, loss_adv = 2.976 loss_D = 0.376
+INFO: iter =     1240/   11000, loss_seg = 0.132, loss_adv = 1.773 loss_D = 0.395
+INFO: iter =     1250/   11000, loss_seg = 0.131, loss_adv = 2.402 loss_D = 0.419
+INFO: iter =     1260/   11000, loss_seg = 0.195, loss_adv = 1.821 loss_D = 0.406
+INFO: iter =     1270/   11000, loss_seg = 0.163, loss_adv = 1.399 loss_D = 0.567
+INFO: iter =     1280/   11000, loss_seg = 0.367, loss_adv = 1.849 loss_D = 0.451
+INFO: iter =     1290/   11000, loss_seg = 0.178, loss_adv = 2.965 loss_D = 0.338
+INFO: iter =     1300/   11000, loss_seg = 0.170, loss_adv = 2.174 loss_D = 0.441
+INFO: iter =     1310/   11000, loss_seg = 0.124, loss_adv = 2.529 loss_D = 0.403
+INFO: iter =     1320/   11000, loss_seg = 0.123, loss_adv = 1.990 loss_D = 0.400
+INFO: iter =     1330/   11000, loss_seg = 0.221, loss_adv = 2.004 loss_D = 0.616
+INFO: iter =     1340/   11000, loss_seg = 0.179, loss_adv = 2.055 loss_D = 0.492
+INFO: iter =     1350/   11000, loss_seg = 0.095, loss_adv = 2.429 loss_D = 0.475
+INFO: iter =     1360/   11000, loss_seg = 0.272, loss_adv = 1.374 loss_D = 0.622
+INFO: iter =     1370/   11000, loss_seg = 0.205, loss_adv = 1.855 loss_D = 0.537
+INFO: iter =     1380/   11000, loss_seg = 0.199, loss_adv = 1.501 loss_D = 0.444
+INFO: iter =     1390/   11000, loss_seg = 0.208, loss_adv = 1.603 loss_D = 0.485
+INFO: iter =     1400/   11000, loss_seg = 0.256, loss_adv = 1.913 loss_D = 0.363
+INFO: iter =     1410/   11000, loss_seg = 0.157, loss_adv = 1.471 loss_D = 0.500
+INFO: iter =     1420/   11000, loss_seg = 0.157, loss_adv = 3.462 loss_D = 0.310
+INFO: iter =     1430/   11000, loss_seg = 0.202, loss_adv = 3.133 loss_D = 0.342
+INFO: iter =     1440/   11000, loss_seg = 0.158, loss_adv = 1.721 loss_D = 0.490
+INFO: iter =     1450/   11000, loss_seg = 0.202, loss_adv = 2.007 loss_D = 0.387
+INFO: iter =     1460/   11000, loss_seg = 0.235, loss_adv = 4.637 loss_D = 0.216
+INFO: iter =     1470/   11000, loss_seg = 0.110, loss_adv = 2.038 loss_D = 0.444
+INFO: iter =     1480/   11000, loss_seg = 0.124, loss_adv = 2.787 loss_D = 0.440
+INFO: iter =     1490/   11000, loss_seg = 0.159, loss_adv = 2.283 loss_D = 0.403
+INFO: iter =     1500/   11000, loss_seg = 0.260, loss_adv = 2.328 loss_D = 0.371
+INFO: iter =     1510/   11000, loss_seg = 0.216, loss_adv = 3.213 loss_D = 0.292
+INFO: iter =     1520/   11000, loss_seg = 0.424, loss_adv = 2.240 loss_D = 0.460
+INFO: iter =     1530/   11000, loss_seg = 0.251, loss_adv = 1.968 loss_D = 0.438
+INFO: iter =     1540/   11000, loss_seg = 0.306, loss_adv = 1.873 loss_D = 0.520
+INFO: iter =     1550/   11000, loss_seg = 0.130, loss_adv = 2.582 loss_D = 0.436
+INFO: iter =     1560/   11000, loss_seg = 0.132, loss_adv = 1.769 loss_D = 0.451
+INFO: iter =     1570/   11000, loss_seg = 0.159, loss_adv = 2.213 loss_D = 0.407
+INFO: iter =     1580/   11000, loss_seg = 0.098, loss_adv = 1.729 loss_D = 0.514
+INFO: iter =     1590/   11000, loss_seg = 0.102, loss_adv = 2.065 loss_D = 0.539
+INFO: iter =     1600/   11000, loss_seg = 0.141, loss_adv = 3.116 loss_D = 0.307
+INFO: iter =     1610/   11000, loss_seg = 0.200, loss_adv = 1.793 loss_D = 0.516
+INFO: iter =     1620/   11000, loss_seg = 0.067, loss_adv = 1.877 loss_D = 0.423
+INFO: iter =     1630/   11000, loss_seg = 0.229, loss_adv = 3.365 loss_D = 0.315
+INFO: iter =     1640/   11000, loss_seg = 0.148, loss_adv = 3.036 loss_D = 0.477
+INFO: iter =     1650/   11000, loss_seg = 0.293, loss_adv = 2.687 loss_D = 0.401
+INFO: iter =     1660/   11000, loss_seg = 0.076, loss_adv = 1.891 loss_D = 0.457
+INFO: iter =     1670/   11000, loss_seg = 0.121, loss_adv = 2.070 loss_D = 0.422
+INFO: iter =     1680/   11000, loss_seg = 0.160, loss_adv = 1.661 loss_D = 0.465
+INFO: iter =     1690/   11000, loss_seg = 0.081, loss_adv = 2.074 loss_D = 0.474
+INFO: iter =     1700/   11000, loss_seg = 0.262, loss_adv = 1.725 loss_D = 0.430
+INFO: iter =     1710/   11000, loss_seg = 0.133, loss_adv = 4.566 loss_D = 0.305
+INFO: iter =     1720/   11000, loss_seg = 0.152, loss_adv = 2.992 loss_D = 0.365
+INFO: iter =     1730/   11000, loss_seg = 0.186, loss_adv = 3.738 loss_D = 0.300
+INFO: iter =     1740/   11000, loss_seg = 0.137, loss_adv = 1.718 loss_D = 0.503
+INFO: iter =     1750/   11000, loss_seg = 0.145, loss_adv = 1.453 loss_D = 0.481
+INFO: iter =     1760/   11000, loss_seg = 0.109, loss_adv = 5.196 loss_D = 0.477
+INFO: iter =     1770/   11000, loss_seg = 0.148, loss_adv = 3.211 loss_D = 0.357
+INFO: iter =     1780/   11000, loss_seg = 0.375, loss_adv = 2.273 loss_D = 0.561
+INFO: iter =     1790/   11000, loss_seg = 0.284, loss_adv = 2.290 loss_D = 0.452
+INFO: iter =     1800/   11000, loss_seg = 0.193, loss_adv = 2.472 loss_D = 0.443
+INFO: iter =     1810/   11000, loss_seg = 0.122, loss_adv = 2.443 loss_D = 0.355
+INFO: iter =     1820/   11000, loss_seg = 0.159, loss_adv = 2.410 loss_D = 0.383
+INFO: iter =     1830/   11000, loss_seg = 0.131, loss_adv = 1.817 loss_D = 0.478
+INFO: iter =     1840/   11000, loss_seg = 0.155, loss_adv = 1.683 loss_D = 0.451
+INFO: iter =     1850/   11000, loss_seg = 0.120, loss_adv = 2.751 loss_D = 0.485
+INFO: iter =     1860/   11000, loss_seg = 0.194, loss_adv = 1.865 loss_D = 0.426
+INFO: iter =     1870/   11000, loss_seg = 0.142, loss_adv = 1.884 loss_D = 0.442
+INFO: iter =     1880/   11000, loss_seg = 0.358, loss_adv = 4.812 loss_D = 0.376
+INFO: iter =     1890/   11000, loss_seg = 0.166, loss_adv = 3.326 loss_D = 0.394
+INFO: iter =     1900/   11000, loss_seg = 0.173, loss_adv = 1.858 loss_D = 0.548
+INFO: iter =     1910/   11000, loss_seg = 0.227, loss_adv = 2.801 loss_D = 0.454
+INFO: iter =     1920/   11000, loss_seg = 0.231, loss_adv = 2.379 loss_D = 0.361
+INFO: iter =     1930/   11000, loss_seg = 0.217, loss_adv = 3.637 loss_D = 0.325
+INFO: iter =     1940/   11000, loss_seg = 0.201, loss_adv = 1.925 loss_D = 0.411
+INFO: iter =     1950/   11000, loss_seg = 0.156, loss_adv = 2.302 loss_D = 0.501
+INFO: iter =     1960/   11000, loss_seg = 0.091, loss_adv = 2.627 loss_D = 0.392
+INFO: iter =     1970/   11000, loss_seg = 0.177, loss_adv = 4.435 loss_D = 0.395
+INFO: iter =     1980/   11000, loss_seg = 0.156, loss_adv = 2.137 loss_D = 0.448
+INFO: iter =     1990/   11000, loss_seg = 0.256, loss_adv = 3.879 loss_D = 0.330
+INFO: iter =     2000/   11000, loss_seg = 0.170, loss_adv = 3.694 loss_D = 0.355
+INFO: taking snapshot ...
+INFO: ===>road           :	74.79
+INFO: ===>sidewalk       :	36.34
+INFO: ===>building       :	83.85
+INFO: ===>wall           :	25.51
+INFO: ===>fence          :	32.55
+INFO: ===>pole           :	29.58
+INFO: ===>light          :	13.61
+INFO: ===>sign           :	13.06
+INFO: ===>vegetation     :	78.76
+INFO: ===>terrain        :	30.38
+INFO: ===>sky            :	92.82
+INFO: ===>person         :	38.37
+INFO: ===>rider          :	18.54
+INFO: ===>car            :	75.17
+INFO: ===>truck          :	43.79
+INFO: ===>bus            :	39.83
+INFO: ===>train          :	53.99
+INFO: ===>motocycle      :	59.08
+INFO: ===>bicycle        :	31.37
+INFO: ===> mIoU: 45.86
+INFO: iter =     2010/   11000, loss_seg = 0.057, loss_adv = 3.176 loss_D = 0.323
+INFO: iter =     2020/   11000, loss_seg = 0.137, loss_adv = 3.853 loss_D = 0.236
+INFO: iter =     2030/   11000, loss_seg = 0.088, loss_adv = 1.806 loss_D = 0.546
+INFO: iter =     2040/   11000, loss_seg = 0.154, loss_adv = 3.254 loss_D = 0.360
+INFO: iter =     2050/   11000, loss_seg = 0.235, loss_adv = 3.482 loss_D = 0.434
+INFO: iter =     2060/   11000, loss_seg = 0.208, loss_adv = 3.141 loss_D = 0.328
+INFO: iter =     2070/   11000, loss_seg = 0.155, loss_adv = 1.804 loss_D = 0.668
+INFO: iter =     2080/   11000, loss_seg = 0.145, loss_adv = 1.778 loss_D = 0.440
+INFO: iter =     2090/   11000, loss_seg = 0.226, loss_adv = 2.674 loss_D = 0.399
+INFO: iter =     2100/   11000, loss_seg = 0.039, loss_adv = 3.657 loss_D = 0.322
+INFO: iter =     2110/   11000, loss_seg = 0.196, loss_adv = 3.926 loss_D = 0.266
+INFO: iter =     2120/   11000, loss_seg = 0.125, loss_adv = 2.961 loss_D = 0.371
+INFO: iter =     2130/   11000, loss_seg = 0.147, loss_adv = 3.452 loss_D = 0.334
+INFO: iter =     2140/   11000, loss_seg = 0.234, loss_adv = 3.356 loss_D = 0.343
+INFO: iter =     2150/   11000, loss_seg = 0.113, loss_adv = 2.432 loss_D = 0.398
+INFO: iter =     2160/   11000, loss_seg = 0.132, loss_adv = 3.753 loss_D = 0.278
+INFO: iter =     2170/   11000, loss_seg = 0.109, loss_adv = 2.867 loss_D = 0.402
+INFO: iter =     2180/   11000, loss_seg = 0.092, loss_adv = 2.563 loss_D = 0.400
+INFO: iter =     2190/   11000, loss_seg = 0.119, loss_adv = 2.364 loss_D = 0.380
+INFO: iter =     2200/   11000, loss_seg = 0.092, loss_adv = 2.517 loss_D = 0.306
+INFO: iter =     2210/   11000, loss_seg = 0.156, loss_adv = 2.276 loss_D = 0.406
+INFO: iter =     2220/   11000, loss_seg = 0.235, loss_adv = 3.598 loss_D = 0.372
+INFO: iter =     2230/   11000, loss_seg = 0.208, loss_adv = 1.900 loss_D = 0.509
+INFO: iter =     2240/   11000, loss_seg = 0.051, loss_adv = 3.263 loss_D = 0.297
+INFO: iter =     2250/   11000, loss_seg = 0.105, loss_adv = 2.472 loss_D = 0.401
+INFO: iter =     2260/   11000, loss_seg = 0.134, loss_adv = 1.819 loss_D = 0.470
+INFO: iter =     2270/   11000, loss_seg = 0.105, loss_adv = 6.233 loss_D = 0.305
+INFO: iter =     2280/   11000, loss_seg = 0.119, loss_adv = 2.848 loss_D = 0.350
+INFO: iter =     2290/   11000, loss_seg = 0.091, loss_adv = 2.070 loss_D = 0.403
+INFO: iter =     2300/   11000, loss_seg = 0.126, loss_adv = 2.118 loss_D = 0.402
+INFO: iter =     2310/   11000, loss_seg = 0.167, loss_adv = 3.206 loss_D = 0.441
+INFO: iter =     2320/   11000, loss_seg = 0.120, loss_adv = 2.068 loss_D = 0.340
+INFO: iter =     2330/   11000, loss_seg = 0.085, loss_adv = 2.311 loss_D = 0.424
+INFO: iter =     2340/   11000, loss_seg = 0.153, loss_adv = 2.369 loss_D = 0.341
+INFO: iter =     2350/   11000, loss_seg = 0.104, loss_adv = 2.050 loss_D = 0.573
+INFO: iter =     2360/   11000, loss_seg = 0.491, loss_adv = 4.736 loss_D = 0.324
+INFO: iter =     2370/   11000, loss_seg = 0.092, loss_adv = 1.839 loss_D = 0.541
+INFO: iter =     2380/   11000, loss_seg = 0.299, loss_adv = 2.526 loss_D = 0.464
+INFO: iter =     2390/   11000, loss_seg = 0.163, loss_adv = 2.738 loss_D = 0.410
+INFO: iter =     2400/   11000, loss_seg = 0.339, loss_adv = 4.330 loss_D = 0.359
+INFO: iter =     2410/   11000, loss_seg = 0.124, loss_adv = 2.046 loss_D = 0.465
+INFO: iter =     2420/   11000, loss_seg = 0.117, loss_adv = 3.457 loss_D = 0.407
+INFO: iter =     2430/   11000, loss_seg = 0.129, loss_adv = 1.833 loss_D = 0.544
+INFO: iter =     2440/   11000, loss_seg = 0.320, loss_adv = 3.215 loss_D = 0.392
+INFO: iter =     2450/   11000, loss_seg = 0.092, loss_adv = 2.316 loss_D = 0.464
+INFO: iter =     2460/   11000, loss_seg = 0.261, loss_adv = 1.983 loss_D = 0.363
+INFO: iter =     2470/   11000, loss_seg = 0.239, loss_adv = 2.045 loss_D = 0.405
+INFO: iter =     2480/   11000, loss_seg = 0.288, loss_adv = 3.006 loss_D = 0.527
+INFO: iter =     2490/   11000, loss_seg = 0.134, loss_adv = 2.191 loss_D = 0.453
+INFO: iter =     2500/   11000, loss_seg = 0.114, loss_adv = 1.790 loss_D = 0.485
+INFO: iter =     2510/   11000, loss_seg = 0.307, loss_adv = 2.356 loss_D = 0.333
+INFO: iter =     2520/   11000, loss_seg = 0.145, loss_adv = 2.767 loss_D = 0.378
+INFO: iter =     2530/   11000, loss_seg = 0.201, loss_adv = 1.734 loss_D = 0.540
+INFO: iter =     2540/   11000, loss_seg = 0.466, loss_adv = 2.613 loss_D = 0.577
+INFO: iter =     2550/   11000, loss_seg = 0.374, loss_adv = 1.931 loss_D = 0.546
+INFO: iter =     2560/   11000, loss_seg = 0.146, loss_adv = 1.649 loss_D = 0.570
+INFO: iter =     2570/   11000, loss_seg = 0.079, loss_adv = 3.224 loss_D = 0.309
+INFO: iter =     2580/   11000, loss_seg = 0.173, loss_adv = 1.448 loss_D = 0.443
+INFO: iter =     2590/   11000, loss_seg = 0.146, loss_adv = 3.237 loss_D = 0.336
+INFO: iter =     2600/   11000, loss_seg = 0.084, loss_adv = 2.063 loss_D = 0.378
+INFO: iter =     2610/   11000, loss_seg = 0.198, loss_adv = 1.670 loss_D = 0.453
+INFO: iter =     2620/   11000, loss_seg = 0.102, loss_adv = 2.427 loss_D = 0.390
+INFO: iter =     2630/   11000, loss_seg = 0.264, loss_adv = 2.109 loss_D = 0.464
+INFO: iter =     2640/   11000, loss_seg = 0.170, loss_adv = 1.701 loss_D = 0.381
+INFO: iter =     2650/   11000, loss_seg = 0.107, loss_adv = 1.754 loss_D = 0.455
+INFO: iter =     2660/   11000, loss_seg = 0.157, loss_adv = 2.440 loss_D = 0.417
+INFO: iter =     2670/   11000, loss_seg = 0.172, loss_adv = 1.672 loss_D = 0.474
+INFO: iter =     2680/   11000, loss_seg = 0.098, loss_adv = 3.000 loss_D = 0.361
+INFO: iter =     2690/   11000, loss_seg = 0.174, loss_adv = 1.684 loss_D = 0.432
+INFO: iter =     2700/   11000, loss_seg = 0.179, loss_adv = 1.978 loss_D = 0.394
+INFO: iter =     2710/   11000, loss_seg = 0.111, loss_adv = 2.378 loss_D = 0.499
+INFO: iter =     2720/   11000, loss_seg = 0.113, loss_adv = 2.169 loss_D = 0.417
+INFO: iter =     2730/   11000, loss_seg = 0.094, loss_adv = 2.479 loss_D = 0.390
+INFO: iter =     2740/   11000, loss_seg = 0.267, loss_adv = 2.136 loss_D = 0.488
+INFO: iter =     2750/   11000, loss_seg = 0.179, loss_adv = 2.331 loss_D = 0.403
+INFO: iter =     2760/   11000, loss_seg = 0.052, loss_adv = 2.124 loss_D = 0.383
+INFO: iter =     2770/   11000, loss_seg = 0.147, loss_adv = 2.398 loss_D = 0.439
+INFO: iter =     2780/   11000, loss_seg = 0.125, loss_adv = 2.758 loss_D = 0.403
+INFO: iter =     2790/   11000, loss_seg = 0.103, loss_adv = 1.623 loss_D = 0.580
+INFO: iter =     2800/   11000, loss_seg = 0.075, loss_adv = 2.303 loss_D = 0.398
+INFO: iter =     2810/   11000, loss_seg = 0.175, loss_adv = 2.921 loss_D = 0.385
+INFO: iter =     2820/   11000, loss_seg = 0.220, loss_adv = 3.310 loss_D = 0.334
+INFO: iter =     2830/   11000, loss_seg = 0.181, loss_adv = 3.169 loss_D = 0.384
+INFO: iter =     2840/   11000, loss_seg = 0.278, loss_adv = 1.916 loss_D = 0.474
+INFO: iter =     2850/   11000, loss_seg = 0.172, loss_adv = 2.806 loss_D = 0.396
+INFO: iter =     2860/   11000, loss_seg = 0.272, loss_adv = 2.196 loss_D = 0.443
+INFO: iter =     2870/   11000, loss_seg = 0.161, loss_adv = 3.298 loss_D = 0.384
+INFO: iter =     2880/   11000, loss_seg = 0.169, loss_adv = 3.646 loss_D = 0.378
+INFO: iter =     2890/   11000, loss_seg = 0.124, loss_adv = 2.497 loss_D = 0.463
+INFO: iter =     2900/   11000, loss_seg = 0.119, loss_adv = 2.069 loss_D = 0.486
+INFO: iter =     2910/   11000, loss_seg = 0.172, loss_adv = 2.749 loss_D = 0.412
+INFO: iter =     2920/   11000, loss_seg = 0.307, loss_adv = 1.676 loss_D = 0.595
+INFO: iter =     2930/   11000, loss_seg = 0.098, loss_adv = 2.079 loss_D = 0.466
+INFO: iter =     2940/   11000, loss_seg = 0.221, loss_adv = 4.533 loss_D = 0.274
+INFO: iter =     2950/   11000, loss_seg = 0.086, loss_adv = 2.689 loss_D = 0.391
+INFO: iter =     2960/   11000, loss_seg = 0.161, loss_adv = 2.417 loss_D = 0.465
+INFO: iter =     2970/   11000, loss_seg = 0.153, loss_adv = 2.169 loss_D = 0.405
+INFO: iter =     2980/   11000, loss_seg = 0.226, loss_adv = 2.437 loss_D = 0.327
+INFO: iter =     2990/   11000, loss_seg = 0.166, loss_adv = 4.988 loss_D = 0.279
+INFO: iter =     3000/   11000, loss_seg = 0.092, loss_adv = 1.851 loss_D = 0.412
+INFO: taking snapshot ...
+INFO: ===>road           :	72.27
+INFO: ===>sidewalk       :	42.45
+INFO: ===>building       :	80.33
+INFO: ===>wall           :	25.38
+INFO: ===>fence          :	27.23
+INFO: ===>pole           :	28.75
+INFO: ===>light          :	19.43
+INFO: ===>sign           :	13.63
+INFO: ===>vegetation     :	76.18
+INFO: ===>terrain        :	35.68
+INFO: ===>sky            :	84.87
+INFO: ===>person         :	36.75
+INFO: ===>rider          :	18.29
+INFO: ===>car            :	76.3
+INFO: ===>truck          :	45.6
+INFO: ===>bus            :	37.77
+INFO: ===>train          :	57.82
+INFO: ===>motocycle      :	54.34
+INFO: ===>bicycle        :	28.57
+INFO: ===> mIoU: 45.35
+INFO: iter =     3010/   11000, loss_seg = 0.065, loss_adv = 2.313 loss_D = 0.370
+INFO: iter =     3020/   11000, loss_seg = 0.154, loss_adv = 3.136 loss_D = 0.377
+INFO: iter =     3030/   11000, loss_seg = 0.091, loss_adv = 3.141 loss_D = 0.394
+INFO: iter =     3040/   11000, loss_seg = 0.204, loss_adv = 2.165 loss_D = 0.537
+INFO: iter =     3050/   11000, loss_seg = 0.101, loss_adv = 2.433 loss_D = 0.390
+INFO: iter =     3060/   11000, loss_seg = 0.143, loss_adv = 1.989 loss_D = 0.504
+INFO: iter =     3070/   11000, loss_seg = 0.142, loss_adv = 2.584 loss_D = 0.350
+INFO: iter =     3080/   11000, loss_seg = 0.143, loss_adv = 3.573 loss_D = 0.463
+INFO: iter =     3090/   11000, loss_seg = 0.277, loss_adv = 2.455 loss_D = 0.351
+INFO: iter =     3100/   11000, loss_seg = 0.120, loss_adv = 3.806 loss_D = 0.353
+INFO: iter =     3110/   11000, loss_seg = 0.295, loss_adv = 2.461 loss_D = 0.527
+INFO: iter =     3120/   11000, loss_seg = 0.100, loss_adv = 2.745 loss_D = 0.403
+INFO: iter =     3130/   11000, loss_seg = 0.174, loss_adv = 2.569 loss_D = 0.405
+INFO: iter =     3140/   11000, loss_seg = 0.262, loss_adv = 2.153 loss_D = 0.478
+INFO: iter =     3150/   11000, loss_seg = 0.174, loss_adv = 4.855 loss_D = 0.240
+INFO: iter =     3160/   11000, loss_seg = 0.155, loss_adv = 2.709 loss_D = 0.419
+INFO: iter =     3170/   11000, loss_seg = 0.134, loss_adv = 3.030 loss_D = 0.409
+INFO: iter =     3180/   11000, loss_seg = 0.085, loss_adv = 3.731 loss_D = 0.305
+INFO: iter =     3190/   11000, loss_seg = 0.096, loss_adv = 2.490 loss_D = 0.449
+INFO: iter =     3200/   11000, loss_seg = 0.168, loss_adv = 2.749 loss_D = 0.390
+INFO: iter =     3210/   11000, loss_seg = 0.142, loss_adv = 2.523 loss_D = 0.467
+INFO: iter =     3220/   11000, loss_seg = 0.147, loss_adv = 3.268 loss_D = 0.313
+INFO: iter =     3230/   11000, loss_seg = 0.161, loss_adv = 2.935 loss_D = 0.369
+INFO: iter =     3240/   11000, loss_seg = 0.098, loss_adv = 2.193 loss_D = 0.359
+INFO: iter =     3250/   11000, loss_seg = 0.112, loss_adv = 4.237 loss_D = 0.296
+INFO: iter =     3260/   11000, loss_seg = 0.078, loss_adv = 2.861 loss_D = 0.395
+INFO: iter =     3270/   11000, loss_seg = 0.167, loss_adv = 4.860 loss_D = 0.336
+INFO: iter =     3280/   11000, loss_seg = 0.098, loss_adv = 4.311 loss_D = 0.293
+INFO: iter =     3290/   11000, loss_seg = 0.277, loss_adv = 2.081 loss_D = 0.472
+INFO: iter =     3300/   11000, loss_seg = 0.199, loss_adv = 2.730 loss_D = 0.374
+INFO: iter =     3310/   11000, loss_seg = 0.127, loss_adv = 4.608 loss_D = 0.342
+INFO: iter =     3320/   11000, loss_seg = 0.150, loss_adv = 3.333 loss_D = 0.363
+INFO: iter =     3330/   11000, loss_seg = 0.131, loss_adv = 3.218 loss_D = 0.331
+INFO: iter =     3340/   11000, loss_seg = 0.250, loss_adv = 2.125 loss_D = 0.446
+INFO: iter =     3350/   11000, loss_seg = 0.147, loss_adv = 2.770 loss_D = 0.487
+INFO: iter =     3360/   11000, loss_seg = 0.174, loss_adv = 2.557 loss_D = 0.391
+INFO: iter =     3370/   11000, loss_seg = 0.157, loss_adv = 2.870 loss_D = 0.376
+INFO: iter =     3380/   11000, loss_seg = 0.099, loss_adv = 2.691 loss_D = 0.433
+INFO: iter =     3390/   11000, loss_seg = 0.102, loss_adv = 1.878 loss_D = 0.466
+INFO: iter =     3400/   11000, loss_seg = 0.087, loss_adv = 6.239 loss_D = 0.208
+INFO: iter =     3410/   11000, loss_seg = 0.258, loss_adv = 4.415 loss_D = 0.390
+INFO: iter =     3420/   11000, loss_seg = 0.177, loss_adv = 4.007 loss_D = 0.309
+INFO: iter =     3430/   11000, loss_seg = 0.164, loss_adv = 2.234 loss_D = 0.445
+INFO: iter =     3440/   11000, loss_seg = 0.148, loss_adv = 3.238 loss_D = 0.326
+INFO: iter =     3450/   11000, loss_seg = 0.083, loss_adv = 2.292 loss_D = 0.387
+INFO: iter =     3460/   11000, loss_seg = 0.110, loss_adv = 4.635 loss_D = 0.286
+INFO: iter =     3470/   11000, loss_seg = 0.124, loss_adv = 2.327 loss_D = 0.383
+INFO: iter =     3480/   11000, loss_seg = 0.188, loss_adv = 3.813 loss_D = 0.369
+INFO: iter =     3490/   11000, loss_seg = 0.151, loss_adv = 2.037 loss_D = 0.433
+INFO: iter =     3500/   11000, loss_seg = 0.125, loss_adv = 2.850 loss_D = 0.364
+INFO: iter =     3510/   11000, loss_seg = 0.139, loss_adv = 2.555 loss_D = 0.371
+INFO: iter =     3520/   11000, loss_seg = 0.181, loss_adv = 4.427 loss_D = 0.283
+INFO: iter =     3530/   11000, loss_seg = 0.197, loss_adv = 2.100 loss_D = 0.409
+INFO: iter =     3540/   11000, loss_seg = 0.229, loss_adv = 2.455 loss_D = 0.648
+INFO: iter =     3550/   11000, loss_seg = 0.127, loss_adv = 3.561 loss_D = 0.357
+INFO: iter =     3560/   11000, loss_seg = 0.097, loss_adv = 2.472 loss_D = 0.398
+INFO: iter =     3570/   11000, loss_seg = 0.095, loss_adv = 2.675 loss_D = 0.387
+INFO: iter =     3580/   11000, loss_seg = 0.491, loss_adv = 2.113 loss_D = 0.432
+INFO: iter =     3590/   11000, loss_seg = 0.125, loss_adv = 2.022 loss_D = 0.429
+INFO: iter =     3600/   11000, loss_seg = 0.156, loss_adv = 1.933 loss_D = 0.450
+INFO: iter =     3610/   11000, loss_seg = 0.099, loss_adv = 3.408 loss_D = 0.316
+INFO: iter =     3620/   11000, loss_seg = 0.104, loss_adv = 2.561 loss_D = 0.404
+INFO: iter =     3630/   11000, loss_seg = 0.175, loss_adv = 2.096 loss_D = 0.549
+INFO: iter =     3640/   11000, loss_seg = 0.387, loss_adv = 2.007 loss_D = 0.645
+INFO: iter =     3650/   11000, loss_seg = 0.193, loss_adv = 2.856 loss_D = 0.356
+INFO: iter =     3660/   11000, loss_seg = 0.101, loss_adv = 2.746 loss_D = 0.492
+INFO: iter =     3670/   11000, loss_seg = 0.255, loss_adv = 1.735 loss_D = 0.447
+INFO: iter =     3680/   11000, loss_seg = 0.143, loss_adv = 2.721 loss_D = 0.389
+INFO: iter =     3690/   11000, loss_seg = 0.080, loss_adv = 2.022 loss_D = 0.570
+INFO: iter =     3700/   11000, loss_seg = 0.160, loss_adv = 4.077 loss_D = 0.252
+INFO: iter =     3710/   11000, loss_seg = 0.093, loss_adv = 2.310 loss_D = 0.429
+INFO: iter =     3720/   11000, loss_seg = 0.083, loss_adv = 1.906 loss_D = 0.448
+INFO: iter =     3730/   11000, loss_seg = 0.172, loss_adv = 2.390 loss_D = 0.511
+INFO: iter =     3740/   11000, loss_seg = 0.120, loss_adv = 2.772 loss_D = 0.367
+INFO: iter =     3750/   11000, loss_seg = 0.119, loss_adv = 2.707 loss_D = 0.398
+INFO: iter =     3760/   11000, loss_seg = 0.244, loss_adv = 4.295 loss_D = 0.844
+INFO: iter =     3770/   11000, loss_seg = 0.126, loss_adv = 2.417 loss_D = 0.341
+INFO: iter =     3780/   11000, loss_seg = 0.227, loss_adv = 2.976 loss_D = 0.285
+INFO: iter =     3790/   11000, loss_seg = 0.139, loss_adv = 3.856 loss_D = 0.266
+INFO: iter =     3800/   11000, loss_seg = 0.126, loss_adv = 6.627 loss_D = 0.235
+INFO: iter =     3810/   11000, loss_seg = 0.165, loss_adv = 4.228 loss_D = 0.247
+INFO: iter =     3820/   11000, loss_seg = 0.208, loss_adv = 3.715 loss_D = 0.320
+INFO: iter =     3830/   11000, loss_seg = 0.072, loss_adv = 2.680 loss_D = 0.351
+INFO: iter =     3840/   11000, loss_seg = 0.231, loss_adv = 2.319 loss_D = 0.433
+INFO: iter =     3850/   11000, loss_seg = 0.077, loss_adv = 2.961 loss_D = 0.341
+INFO: iter =     3860/   11000, loss_seg = 0.256, loss_adv = 4.348 loss_D = 0.382
+INFO: iter =     3870/   11000, loss_seg = 0.077, loss_adv = 1.952 loss_D = 0.508
+INFO: iter =     3880/   11000, loss_seg = 0.086, loss_adv = 2.080 loss_D = 0.467
+INFO: iter =     3890/   11000, loss_seg = 0.152, loss_adv = 2.024 loss_D = 0.475
+INFO: iter =     3900/   11000, loss_seg = 0.085, loss_adv = 2.390 loss_D = 0.366
+INFO: iter =     3910/   11000, loss_seg = 0.175, loss_adv = 2.936 loss_D = 0.333
+INFO: iter =     3920/   11000, loss_seg = 0.104, loss_adv = 2.335 loss_D = 0.336
+INFO: iter =     3930/   11000, loss_seg = 0.135, loss_adv = 4.035 loss_D = 0.345
+INFO: iter =     3940/   11000, loss_seg = 0.149, loss_adv = 4.366 loss_D = 0.253
+INFO: iter =     3950/   11000, loss_seg = 0.242, loss_adv = 3.500 loss_D = 0.332
+INFO: iter =     3960/   11000, loss_seg = 0.138, loss_adv = 3.415 loss_D = 0.366
+INFO: iter =     3970/   11000, loss_seg = 0.136, loss_adv = 4.887 loss_D = 0.283
+INFO: iter =     3980/   11000, loss_seg = 0.122, loss_adv = 3.791 loss_D = 0.414
+INFO: iter =     3990/   11000, loss_seg = 0.065, loss_adv = 3.657 loss_D = 0.236
+INFO: iter =     4000/   11000, loss_seg = 0.178, loss_adv = 2.212 loss_D = 0.510
+INFO: taking snapshot ...
+INFO: ===>road           :	74.76
+INFO: ===>sidewalk       :	38.66
+INFO: ===>building       :	84.67
+INFO: ===>wall           :	28.1
+INFO: ===>fence          :	30.89
+INFO: ===>pole           :	28.64
+INFO: ===>light          :	18.22
+INFO: ===>sign           :	14.2
+INFO: ===>vegetation     :	77.64
+INFO: ===>terrain        :	32.28
+INFO: ===>sky            :	93.31
+INFO: ===>person         :	39.04
+INFO: ===>rider          :	20.34
+INFO: ===>car            :	77.46
+INFO: ===>truck          :	55.91
+INFO: ===>bus            :	40.49
+INFO: ===>train          :	66.42
+INFO: ===>motocycle      :	60.01
+INFO: ===>bicycle        :	31.47
+INFO: ===> mIoU: 48.03
+INFO: iter =     4010/   11000, loss_seg = 0.155, loss_adv = 3.524 loss_D = 0.421
+INFO: iter =     4020/   11000, loss_seg = 0.121, loss_adv = 2.190 loss_D = 0.396
+INFO: iter =     4030/   11000, loss_seg = 0.197, loss_adv = 3.931 loss_D = 0.471
+INFO: iter =     4040/   11000, loss_seg = 0.178, loss_adv = 2.631 loss_D = 0.360
+INFO: iter =     4050/   11000, loss_seg = 0.202, loss_adv = 3.538 loss_D = 0.252
+INFO: iter =     4060/   11000, loss_seg = 0.081, loss_adv = 1.813 loss_D = 0.461
+INFO: iter =     4070/   11000, loss_seg = 0.133, loss_adv = 2.198 loss_D = 0.422
+INFO: iter =     4080/   11000, loss_seg = 0.160, loss_adv = 3.721 loss_D = 0.357
+INFO: iter =     4090/   11000, loss_seg = 0.119, loss_adv = 2.276 loss_D = 0.404
+INFO: iter =     4100/   11000, loss_seg = 0.161, loss_adv = 2.642 loss_D = 0.396
+INFO: iter =     4110/   11000, loss_seg = 0.134, loss_adv = 2.831 loss_D = 0.356
+INFO: iter =     4120/   11000, loss_seg = 0.096, loss_adv = 2.985 loss_D = 0.412
+INFO: iter =     4130/   11000, loss_seg = 0.106, loss_adv = 2.360 loss_D = 0.383
+INFO: iter =     4140/   11000, loss_seg = 0.228, loss_adv = 3.519 loss_D = 0.302
+INFO: iter =     4150/   11000, loss_seg = 0.150, loss_adv = 3.363 loss_D = 0.327
+INFO: iter =     4160/   11000, loss_seg = 0.141, loss_adv = 5.264 loss_D = 0.305
+INFO: iter =     4170/   11000, loss_seg = 0.136, loss_adv = 4.869 loss_D = 0.251
+INFO: iter =     4180/   11000, loss_seg = 0.159, loss_adv = 2.583 loss_D = 0.447
+INFO: iter =     4190/   11000, loss_seg = 0.061, loss_adv = 2.053 loss_D = 0.470
+INFO: iter =     4200/   11000, loss_seg = 0.321, loss_adv = 5.151 loss_D = 0.308
+INFO: iter =     4210/   11000, loss_seg = 0.185, loss_adv = 2.398 loss_D = 0.563
+INFO: iter =     4220/   11000, loss_seg = 0.121, loss_adv = 2.953 loss_D = 0.443
+INFO: iter =     4230/   11000, loss_seg = 0.173, loss_adv = 2.548 loss_D = 0.501
+INFO: iter =     4240/   11000, loss_seg = 0.115, loss_adv = 2.629 loss_D = 0.410
+INFO: iter =     4250/   11000, loss_seg = 0.144, loss_adv = 2.622 loss_D = 0.342
+INFO: iter =     4260/   11000, loss_seg = 0.228, loss_adv = 2.908 loss_D = 0.530
+INFO: iter =     4270/   11000, loss_seg = 0.181, loss_adv = 3.451 loss_D = 0.401
+INFO: iter =     4280/   11000, loss_seg = 0.108, loss_adv = 3.900 loss_D = 0.397
+INFO: iter =     4290/   11000, loss_seg = 0.213, loss_adv = 2.980 loss_D = 0.571
+INFO: iter =     4300/   11000, loss_seg = 0.132, loss_adv = 3.281 loss_D = 0.274
+INFO: iter =     4310/   11000, loss_seg = 0.151, loss_adv = 2.747 loss_D = 0.360
+INFO: iter =     4320/   11000, loss_seg = 0.182, loss_adv = 2.912 loss_D = 0.449
+INFO: iter =     4330/   11000, loss_seg = 0.094, loss_adv = 7.833 loss_D = 0.160
+INFO: iter =     4340/   11000, loss_seg = 0.182, loss_adv = 2.010 loss_D = 0.435
+INFO: iter =     4350/   11000, loss_seg = 0.079, loss_adv = 2.508 loss_D = 0.355
+INFO: iter =     4360/   11000, loss_seg = 0.135, loss_adv = 2.853 loss_D = 0.379
+INFO: iter =     4370/   11000, loss_seg = 0.074, loss_adv = 2.417 loss_D = 0.430
+INFO: iter =     4380/   11000, loss_seg = 0.121, loss_adv = 3.264 loss_D = 0.380
+INFO: iter =     4390/   11000, loss_seg = 0.098, loss_adv = 3.946 loss_D = 0.303
+INFO: iter =     4400/   11000, loss_seg = 0.160, loss_adv = 4.382 loss_D = 0.257
+INFO: iter =     4410/   11000, loss_seg = 0.170, loss_adv = 2.560 loss_D = 0.581
+INFO: iter =     4420/   11000, loss_seg = 0.099, loss_adv = 2.753 loss_D = 0.442
+INFO: iter =     4430/   11000, loss_seg = 0.129, loss_adv = 2.376 loss_D = 0.356
+INFO: iter =     4440/   11000, loss_seg = 0.110, loss_adv = 2.823 loss_D = 0.374
+INFO: iter =     4450/   11000, loss_seg = 0.188, loss_adv = 2.540 loss_D = 0.385
+INFO: iter =     4460/   11000, loss_seg = 0.135, loss_adv = 2.316 loss_D = 0.445
+INFO: iter =     4470/   11000, loss_seg = 0.061, loss_adv = 5.928 loss_D = 0.251
+INFO: iter =     4480/   11000, loss_seg = 0.178, loss_adv = 3.290 loss_D = 0.407
+INFO: iter =     4490/   11000, loss_seg = 0.305, loss_adv = 2.030 loss_D = 0.486
+INFO: iter =     4500/   11000, loss_seg = 0.296, loss_adv = 2.176 loss_D = 0.487
+INFO: iter =     4510/   11000, loss_seg = 0.124, loss_adv = 3.163 loss_D = 0.302
+INFO: iter =     4520/   11000, loss_seg = 0.164, loss_adv = 3.278 loss_D = 0.415
+INFO: iter =     4530/   11000, loss_seg = 0.058, loss_adv = 3.009 loss_D = 0.280
+INFO: iter =     4540/   11000, loss_seg = 0.135, loss_adv = 2.073 loss_D = 0.486
+INFO: iter =     4550/   11000, loss_seg = 0.230, loss_adv = 2.636 loss_D = 0.368
+INFO: iter =     4560/   11000, loss_seg = 0.128, loss_adv = 2.229 loss_D = 0.356
+INFO: iter =     4570/   11000, loss_seg = 0.134, loss_adv = 3.428 loss_D = 0.418
+INFO: iter =     4580/   11000, loss_seg = 0.061, loss_adv = 2.589 loss_D = 0.398
+INFO: iter =     4590/   11000, loss_seg = 0.122, loss_adv = 3.523 loss_D = 0.312
+INFO: iter =     4600/   11000, loss_seg = 0.152, loss_adv = 5.298 loss_D = 0.214
+INFO: iter =     4610/   11000, loss_seg = 0.115, loss_adv = 2.965 loss_D = 0.309
+INFO: iter =     4620/   11000, loss_seg = 0.151, loss_adv = 1.961 loss_D = 0.517
+INFO: iter =     4630/   11000, loss_seg = 0.157, loss_adv = 2.452 loss_D = 0.443
+INFO: iter =     4640/   11000, loss_seg = 0.207, loss_adv = 2.318 loss_D = 0.494
+INFO: iter =     4650/   11000, loss_seg = 0.073, loss_adv = 2.773 loss_D = 0.448
+INFO: iter =     4660/   11000, loss_seg = 0.174, loss_adv = 2.271 loss_D = 0.470
+INFO: iter =     4670/   11000, loss_seg = 0.103, loss_adv = 2.522 loss_D = 0.411
+INFO: iter =     4680/   11000, loss_seg = 0.157, loss_adv = 2.156 loss_D = 0.450
+INFO: iter =     4690/   11000, loss_seg = 0.081, loss_adv = 2.723 loss_D = 0.453
+INFO: iter =     4700/   11000, loss_seg = 0.158, loss_adv = 2.709 loss_D = 0.381
+INFO: iter =     4710/   11000, loss_seg = 0.194, loss_adv = 2.595 loss_D = 0.375
+INFO: iter =     4720/   11000, loss_seg = 0.180, loss_adv = 4.529 loss_D = 0.296
+INFO: iter =     4730/   11000, loss_seg = 0.195, loss_adv = 2.426 loss_D = 0.359
+INFO: iter =     4740/   11000, loss_seg = 0.171, loss_adv = 6.144 loss_D = 0.269
+INFO: iter =     4750/   11000, loss_seg = 0.449, loss_adv = 2.277 loss_D = 1.140
+INFO: iter =     4760/   11000, loss_seg = 0.159, loss_adv = 3.701 loss_D = 0.343
+INFO: iter =     4770/   11000, loss_seg = 0.082, loss_adv = 2.528 loss_D = 0.378
+INFO: iter =     4780/   11000, loss_seg = 0.111, loss_adv = 2.835 loss_D = 0.336
+INFO: iter =     4790/   11000, loss_seg = 0.125, loss_adv = 3.371 loss_D = 0.353
+INFO: iter =     4800/   11000, loss_seg = 0.095, loss_adv = 2.091 loss_D = 0.485
+INFO: iter =     4810/   11000, loss_seg = 0.169, loss_adv = 3.174 loss_D = 0.372
+INFO: iter =     4820/   11000, loss_seg = 0.105, loss_adv = 4.001 loss_D = 0.281
+INFO: iter =     4830/   11000, loss_seg = 0.269, loss_adv = 2.184 loss_D = 0.455
+INFO: iter =     4840/   11000, loss_seg = 0.167, loss_adv = 3.120 loss_D = 0.448
+INFO: iter =     4850/   11000, loss_seg = 0.140, loss_adv = 3.252 loss_D = 0.382
+INFO: iter =     4860/   11000, loss_seg = 0.284, loss_adv = 2.964 loss_D = 0.314
+INFO: iter =     4870/   11000, loss_seg = 0.093, loss_adv = 2.619 loss_D = 0.438
+INFO: iter =     4880/   11000, loss_seg = 0.109, loss_adv = 4.329 loss_D = 0.319
+INFO: iter =     4890/   11000, loss_seg = 0.072, loss_adv = 2.003 loss_D = 0.378
+INFO: iter =     4900/   11000, loss_seg = 0.174, loss_adv = 2.949 loss_D = 0.266
+INFO: iter =     4910/   11000, loss_seg = 0.143, loss_adv = 3.185 loss_D = 0.365
+INFO: iter =     4920/   11000, loss_seg = 0.136, loss_adv = 2.286 loss_D = 0.459
+INFO: iter =     4930/   11000, loss_seg = 0.117, loss_adv = 2.511 loss_D = 0.404
+INFO: iter =     4940/   11000, loss_seg = 0.142, loss_adv = 5.424 loss_D = 0.254
+INFO: iter =     4950/   11000, loss_seg = 0.123, loss_adv = 2.149 loss_D = 0.530
+INFO: iter =     4960/   11000, loss_seg = 0.211, loss_adv = 2.666 loss_D = 0.421
+INFO: iter =     4970/   11000, loss_seg = 0.189, loss_adv = 2.678 loss_D = 0.535
+INFO: iter =     4980/   11000, loss_seg = 0.169, loss_adv = 2.516 loss_D = 0.433
+INFO: iter =     4990/   11000, loss_seg = 0.148, loss_adv = 2.297 loss_D = 0.481
+INFO: iter =     5000/   11000, loss_seg = 0.100, loss_adv = 3.207 loss_D = 0.362
+INFO: taking snapshot ...
+INFO: ===>road           :	75.84
+INFO: ===>sidewalk       :	39.68
+INFO: ===>building       :	84.96
+INFO: ===>wall           :	28.48
+INFO: ===>fence          :	33.66
+INFO: ===>pole           :	29.62
+INFO: ===>light          :	14.64
+INFO: ===>sign           :	13.45
+INFO: ===>vegetation     :	77.55
+INFO: ===>terrain        :	34.59
+INFO: ===>sky            :	93.57
+INFO: ===>person         :	40.2
+INFO: ===>rider          :	14.97
+INFO: ===>car            :	78.64
+INFO: ===>truck          :	51.69
+INFO: ===>bus            :	45.25
+INFO: ===>train          :	60.32
+INFO: ===>motocycle      :	58.45
+INFO: ===>bicycle        :	31.09
+INFO: ===> mIoU: 47.72
+INFO: iter =     5010/   11000, loss_seg = 0.144, loss_adv = 2.591 loss_D = 0.373
+INFO: iter =     5020/   11000, loss_seg = 0.141, loss_adv = 2.948 loss_D = 0.422
+INFO: iter =     5030/   11000, loss_seg = 0.145, loss_adv = 3.123 loss_D = 0.388
+INFO: iter =     5040/   11000, loss_seg = 0.118, loss_adv = 2.178 loss_D = 0.435
+INFO: iter =     5050/   11000, loss_seg = 0.147, loss_adv = 2.881 loss_D = 0.522
+INFO: iter =     5060/   11000, loss_seg = 0.101, loss_adv = 2.452 loss_D = 0.513
+INFO: iter =     5070/   11000, loss_seg = 0.182, loss_adv = 2.277 loss_D = 0.414
+INFO: iter =     5080/   11000, loss_seg = 0.115, loss_adv = 2.243 loss_D = 0.434
+INFO: iter =     5090/   11000, loss_seg = 0.154, loss_adv = 2.299 loss_D = 0.431
+INFO: iter =     5100/   11000, loss_seg = 0.210, loss_adv = 2.688 loss_D = 0.481
+INFO: iter =     5110/   11000, loss_seg = 0.159, loss_adv = 4.847 loss_D = 0.296
+INFO: iter =     5120/   11000, loss_seg = 0.150, loss_adv = 3.272 loss_D = 0.305
+INFO: iter =     5130/   11000, loss_seg = 0.113, loss_adv = 3.108 loss_D = 0.260
+INFO: iter =     5140/   11000, loss_seg = 0.171, loss_adv = 2.892 loss_D = 0.370
+INFO: iter =     5150/   11000, loss_seg = 0.151, loss_adv = 3.279 loss_D = 0.369
+INFO: iter =     5160/   11000, loss_seg = 0.081, loss_adv = 3.359 loss_D = 0.350
+INFO: iter =     5170/   11000, loss_seg = 0.216, loss_adv = 3.900 loss_D = 0.408
+INFO: iter =     5180/   11000, loss_seg = 0.200, loss_adv = 2.864 loss_D = 0.589
+INFO: iter =     5190/   11000, loss_seg = 0.116, loss_adv = 4.354 loss_D = 0.202
+INFO: iter =     5200/   11000, loss_seg = 0.184, loss_adv = 2.469 loss_D = 0.384
+INFO: iter =     5210/   11000, loss_seg = 0.106, loss_adv = 2.501 loss_D = 0.376
+INFO: iter =     5220/   11000, loss_seg = 0.146, loss_adv = 3.390 loss_D = 0.505
+INFO: iter =     5230/   11000, loss_seg = 0.215, loss_adv = 2.178 loss_D = 0.481
+INFO: iter =     5240/   11000, loss_seg = 0.115, loss_adv = 3.301 loss_D = 0.295
+INFO: iter =     5250/   11000, loss_seg = 0.167, loss_adv = 3.855 loss_D = 0.267
+INFO: iter =     5260/   11000, loss_seg = 0.093, loss_adv = 2.584 loss_D = 0.371
+INFO: iter =     5270/   11000, loss_seg = 0.132, loss_adv = 2.405 loss_D = 0.424
+INFO: iter =     5280/   11000, loss_seg = 0.139, loss_adv = 2.795 loss_D = 0.360
+INFO: iter =     5290/   11000, loss_seg = 0.199, loss_adv = 2.797 loss_D = 0.502
+INFO: iter =     5300/   11000, loss_seg = 0.069, loss_adv = 1.979 loss_D = 0.467
+INFO: iter =     5310/   11000, loss_seg = 0.162, loss_adv = 3.070 loss_D = 0.301
+INFO: iter =     5320/   11000, loss_seg = 0.166, loss_adv = 3.677 loss_D = 0.354
+INFO: iter =     5330/   11000, loss_seg = 0.243, loss_adv = 4.379 loss_D = 0.259
+INFO: iter =     5340/   11000, loss_seg = 0.060, loss_adv = 3.236 loss_D = 0.356
+INFO: iter =     5350/   11000, loss_seg = 0.396, loss_adv = 2.547 loss_D = 0.405
+INFO: iter =     5360/   11000, loss_seg = 0.089, loss_adv = 2.723 loss_D = 0.432
+INFO: iter =     5370/   11000, loss_seg = 0.239, loss_adv = 2.628 loss_D = 0.367
+INFO: iter =     5380/   11000, loss_seg = 0.186, loss_adv = 3.224 loss_D = 0.380
+INFO: iter =     5390/   11000, loss_seg = 0.175, loss_adv = 4.635 loss_D = 0.286
+INFO: iter =     5400/   11000, loss_seg = 0.104, loss_adv = 3.510 loss_D = 0.354
+INFO: iter =     5410/   11000, loss_seg = 0.033, loss_adv = 5.632 loss_D = 0.188
+INFO: iter =     5420/   11000, loss_seg = 0.199, loss_adv = 2.296 loss_D = 0.434
+INFO: iter =     5430/   11000, loss_seg = 0.138, loss_adv = 2.309 loss_D = 0.409
+INFO: iter =     5440/   11000, loss_seg = 0.179, loss_adv = 4.735 loss_D = 0.205
+INFO: iter =     5450/   11000, loss_seg = 0.258, loss_adv = 2.526 loss_D = 0.410
+INFO: iter =     5460/   11000, loss_seg = 0.162, loss_adv = 2.502 loss_D = 0.352
+INFO: iter =     5470/   11000, loss_seg = 0.253, loss_adv = 2.410 loss_D = 0.411
+INFO: iter =     5480/   11000, loss_seg = 0.190, loss_adv = 3.812 loss_D = 0.444
+INFO: iter =     5490/   11000, loss_seg = 0.204, loss_adv = 4.354 loss_D = 0.291
+INFO: iter =     5500/   11000, loss_seg = 0.133, loss_adv = 3.869 loss_D = 0.338
+INFO: iter =     5510/   11000, loss_seg = 0.137, loss_adv = 3.009 loss_D = 0.312
+INFO: iter =     5520/   11000, loss_seg = 0.117, loss_adv = 2.515 loss_D = 0.437
+INFO: iter =     5530/   11000, loss_seg = 0.208, loss_adv = 2.596 loss_D = 0.422
+INFO: iter =     5540/   11000, loss_seg = 0.265, loss_adv = 2.491 loss_D = 0.509
+INFO: iter =     5550/   11000, loss_seg = 0.114, loss_adv = 2.562 loss_D = 0.430
+INFO: iter =     5560/   11000, loss_seg = 0.072, loss_adv = 3.362 loss_D = 0.443
+INFO: iter =     5570/   11000, loss_seg = 0.144, loss_adv = 2.352 loss_D = 0.458
+INFO: iter =     5580/   11000, loss_seg = 0.330, loss_adv = 2.169 loss_D = 0.506
+INFO: iter =     5590/   11000, loss_seg = 0.202, loss_adv = 2.064 loss_D = 0.467
+INFO: iter =     5600/   11000, loss_seg = 0.270, loss_adv = 2.619 loss_D = 0.281
+INFO: iter =     5610/   11000, loss_seg = 0.133, loss_adv = 2.438 loss_D = 0.385
+INFO: iter =     5620/   11000, loss_seg = 0.145, loss_adv = 2.583 loss_D = 0.509
+INFO: iter =     5630/   11000, loss_seg = 0.082, loss_adv = 3.281 loss_D = 0.307
+INFO: iter =     5640/   11000, loss_seg = 0.170, loss_adv = 3.864 loss_D = 0.332
+INFO: iter =     5650/   11000, loss_seg = 0.154, loss_adv = 2.552 loss_D = 0.429
+INFO: iter =     5660/   11000, loss_seg = 0.221, loss_adv = 5.822 loss_D = 0.276
+INFO: iter =     5670/   11000, loss_seg = 0.108, loss_adv = 2.611 loss_D = 0.594
+INFO: iter =     5680/   11000, loss_seg = 0.243, loss_adv = 2.994 loss_D = 0.347
+INFO: iter =     5690/   11000, loss_seg = 0.255, loss_adv = 3.691 loss_D = 0.284
+INFO: iter =     5700/   11000, loss_seg = 0.217, loss_adv = 2.368 loss_D = 0.594
+INFO: iter =     5710/   11000, loss_seg = 0.175, loss_adv = 3.215 loss_D = 0.431
+INFO: iter =     5720/   11000, loss_seg = 0.148, loss_adv = 4.277 loss_D = 0.295
+INFO: iter =     5730/   11000, loss_seg = 0.116, loss_adv = 4.007 loss_D = 0.321
+INFO: iter =     5740/   11000, loss_seg = 0.186, loss_adv = 4.325 loss_D = 0.249
+INFO: iter =     5750/   11000, loss_seg = 0.165, loss_adv = 3.980 loss_D = 0.262
+INFO: iter =     5760/   11000, loss_seg = 0.134, loss_adv = 2.531 loss_D = 0.483
+INFO: iter =     5770/   11000, loss_seg = 0.174, loss_adv = 3.641 loss_D = 0.426
+INFO: iter =     5780/   11000, loss_seg = 0.071, loss_adv = 3.409 loss_D = 0.264
+INFO: iter =     5790/   11000, loss_seg = 0.401, loss_adv = 2.815 loss_D = 0.432
+INFO: iter =     5800/   11000, loss_seg = 0.128, loss_adv = 2.456 loss_D = 0.417
+INFO: iter =     5810/   11000, loss_seg = 0.260, loss_adv = 2.281 loss_D = 0.362
+INFO: iter =     5820/   11000, loss_seg = 0.166, loss_adv = 3.420 loss_D = 0.348
+INFO: iter =     5830/   11000, loss_seg = 0.173, loss_adv = 3.370 loss_D = 0.358
+INFO: iter =     5840/   11000, loss_seg = 0.177, loss_adv = 3.779 loss_D = 0.362
+INFO: iter =     5850/   11000, loss_seg = 0.140, loss_adv = 3.746 loss_D = 0.294
+INFO: iter =     5860/   11000, loss_seg = 0.093, loss_adv = 3.636 loss_D = 0.349
+INFO: iter =     5870/   11000, loss_seg = 0.140, loss_adv = 5.017 loss_D = 0.303
+INFO: iter =     5880/   11000, loss_seg = 0.083, loss_adv = 2.288 loss_D = 0.487
+INFO: iter =     5890/   11000, loss_seg = 0.059, loss_adv = 2.937 loss_D = 0.324
+INFO: iter =     5900/   11000, loss_seg = 0.114, loss_adv = 2.635 loss_D = 0.304
+INFO: iter =     5910/   11000, loss_seg = 0.109, loss_adv = 2.846 loss_D = 0.375
+INFO: iter =     5920/   11000, loss_seg = 0.214, loss_adv = 3.419 loss_D = 0.354
+INFO: iter =     5930/   11000, loss_seg = 0.169, loss_adv = 3.051 loss_D = 0.505
+INFO: iter =     5940/   11000, loss_seg = 0.304, loss_adv = 2.165 loss_D = 0.631
+INFO: iter =     5950/   11000, loss_seg = 0.111, loss_adv = 2.642 loss_D = 0.294
+INFO: iter =     5960/   11000, loss_seg = 0.123, loss_adv = 1.922 loss_D = 0.460
+INFO: iter =     5970/   11000, loss_seg = 0.191, loss_adv = 3.257 loss_D = 0.286
+INFO: iter =     5980/   11000, loss_seg = 0.188, loss_adv = 2.798 loss_D = 0.373
+INFO: iter =     5990/   11000, loss_seg = 0.097, loss_adv = 3.803 loss_D = 0.311
+INFO: iter =     6000/   11000, loss_seg = 0.119, loss_adv = 3.426 loss_D = 0.247
+INFO: taking snapshot ...
+INFO: ===>road           :	76.5
+INFO: ===>sidewalk       :	40.09
+INFO: ===>building       :	84.71
+INFO: ===>wall           :	25.72
+INFO: ===>fence          :	29.22
+INFO: ===>pole           :	30.3
+INFO: ===>light          :	15.88
+INFO: ===>sign           :	15.17
+INFO: ===>vegetation     :	74.84
+INFO: ===>terrain        :	36.28
+INFO: ===>sky            :	93.44
+INFO: ===>person         :	34.37
+INFO: ===>rider          :	15.37
+INFO: ===>car            :	78.0
+INFO: ===>truck          :	50.58
+INFO: ===>bus            :	51.62
+INFO: ===>train          :	62.07
+INFO: ===>motocycle      :	57.04
+INFO: ===>bicycle        :	30.26
+INFO: ===> mIoU: 47.45
+INFO: iter =     6010/   11000, loss_seg = 0.080, loss_adv = 2.617 loss_D = 0.349
+INFO: iter =     6020/   11000, loss_seg = 0.198, loss_adv = 7.268 loss_D = 0.306
+INFO: iter =     6030/   11000, loss_seg = 0.103, loss_adv = 2.172 loss_D = 0.387
+INFO: iter =     6040/   11000, loss_seg = 0.083, loss_adv = 3.368 loss_D = 0.321
+INFO: iter =     6050/   11000, loss_seg = 0.169, loss_adv = 2.129 loss_D = 0.516
+INFO: iter =     6060/   11000, loss_seg = 0.124, loss_adv = 3.744 loss_D = 0.322
+INFO: iter =     6070/   11000, loss_seg = 0.079, loss_adv = 5.318 loss_D = 0.227
+INFO: iter =     6080/   11000, loss_seg = 0.060, loss_adv = 2.190 loss_D = 0.474
+INFO: iter =     6090/   11000, loss_seg = 0.101, loss_adv = 4.825 loss_D = 0.285
+INFO: iter =     6100/   11000, loss_seg = 0.192, loss_adv = 4.317 loss_D = 0.253
+INFO: iter =     6110/   11000, loss_seg = 0.219, loss_adv = 3.076 loss_D = 0.332
+INFO: iter =     6120/   11000, loss_seg = 0.088, loss_adv = 4.387 loss_D = 0.239
+INFO: iter =     6130/   11000, loss_seg = 0.133, loss_adv = 2.717 loss_D = 0.388
+INFO: iter =     6140/   11000, loss_seg = 0.096, loss_adv = 4.604 loss_D = 0.287
+INFO: iter =     6150/   11000, loss_seg = 0.057, loss_adv = 4.011 loss_D = 0.264
+INFO: iter =     6160/   11000, loss_seg = 0.274, loss_adv = 3.326 loss_D = 0.357
+INFO: iter =     6170/   11000, loss_seg = 0.108, loss_adv = 2.305 loss_D = 0.433
+INFO: iter =     6180/   11000, loss_seg = 0.252, loss_adv = 2.731 loss_D = 0.376
+INFO: iter =     6190/   11000, loss_seg = 0.107, loss_adv = 2.259 loss_D = 0.437
+INFO: iter =     6200/   11000, loss_seg = 0.093, loss_adv = 2.288 loss_D = 0.566
+INFO: iter =     6210/   11000, loss_seg = 0.258, loss_adv = 2.603 loss_D = 0.360
+INFO: iter =     6220/   11000, loss_seg = 0.210, loss_adv = 3.563 loss_D = 0.360
+INFO: iter =     6230/   11000, loss_seg = 0.206, loss_adv = 2.635 loss_D = 0.339
+INFO: iter =     6240/   11000, loss_seg = 0.178, loss_adv = 2.662 loss_D = 0.445
+INFO: iter =     6250/   11000, loss_seg = 0.199, loss_adv = 2.191 loss_D = 0.507
+INFO: iter =     6260/   11000, loss_seg = 0.259, loss_adv = 3.755 loss_D = 0.463
+INFO: iter =     6270/   11000, loss_seg = 0.179, loss_adv = 3.539 loss_D = 0.339
+INFO: iter =     6280/   11000, loss_seg = 0.150, loss_adv = 3.125 loss_D = 0.336
+INFO: iter =     6290/   11000, loss_seg = 0.142, loss_adv = 3.261 loss_D = 0.336
+INFO: iter =     6300/   11000, loss_seg = 0.242, loss_adv = 4.398 loss_D = 0.382
+INFO: iter =     6310/   11000, loss_seg = 0.226, loss_adv = 3.764 loss_D = 0.402
+INFO: iter =     6320/   11000, loss_seg = 0.085, loss_adv = 2.792 loss_D = 0.349
+INFO: iter =     6330/   11000, loss_seg = 0.070, loss_adv = 4.068 loss_D = 0.242
+INFO: iter =     6340/   11000, loss_seg = 0.216, loss_adv = 2.000 loss_D = 0.514
+INFO: iter =     6350/   11000, loss_seg = 0.120, loss_adv = 3.253 loss_D = 0.340
+INFO: iter =     6360/   11000, loss_seg = 0.086, loss_adv = 2.983 loss_D = 0.289
+INFO: iter =     6370/   11000, loss_seg = 0.139, loss_adv = 5.524 loss_D = 0.189
+INFO: iter =     6380/   11000, loss_seg = 0.150, loss_adv = 5.795 loss_D = 0.417
+INFO: iter =     6390/   11000, loss_seg = 0.194, loss_adv = 1.897 loss_D = 0.619
+INFO: iter =     6400/   11000, loss_seg = 0.186, loss_adv = 2.844 loss_D = 0.428
+INFO: iter =     6410/   11000, loss_seg = 0.447, loss_adv = 4.094 loss_D = 0.479
+INFO: iter =     6420/   11000, loss_seg = 0.099, loss_adv = 3.045 loss_D = 0.319
+INFO: iter =     6430/   11000, loss_seg = 0.266, loss_adv = 2.363 loss_D = 0.496
+INFO: iter =     6440/   11000, loss_seg = 0.309, loss_adv = 2.429 loss_D = 0.617
+INFO: iter =     6450/   11000, loss_seg = 0.140, loss_adv = 3.698 loss_D = 0.332
+INFO: iter =     6460/   11000, loss_seg = 0.154, loss_adv = 4.608 loss_D = 0.322
+INFO: iter =     6470/   11000, loss_seg = 0.096, loss_adv = 2.276 loss_D = 0.505
+INFO: iter =     6480/   11000, loss_seg = 0.078, loss_adv = 2.609 loss_D = 0.436
+INFO: iter =     6490/   11000, loss_seg = 0.184, loss_adv = 2.058 loss_D = 0.523
+INFO: iter =     6500/   11000, loss_seg = 0.181, loss_adv = 2.510 loss_D = 0.401
+INFO: iter =     6510/   11000, loss_seg = 0.103, loss_adv = 2.394 loss_D = 0.359
+INFO: iter =     6520/   11000, loss_seg = 0.170, loss_adv = 2.275 loss_D = 0.432
+INFO: iter =     6530/   11000, loss_seg = 0.240, loss_adv = 4.795 loss_D = 0.294
+INFO: iter =     6540/   11000, loss_seg = 0.159, loss_adv = 1.997 loss_D = 0.417
+INFO: iter =     6550/   11000, loss_seg = 0.285, loss_adv = 2.454 loss_D = 0.510
+INFO: iter =     6560/   11000, loss_seg = 0.098, loss_adv = 4.471 loss_D = 0.311
+INFO: iter =     6570/   11000, loss_seg = 0.155, loss_adv = 2.463 loss_D = 0.461
+INFO: iter =     6580/   11000, loss_seg = 0.171, loss_adv = 2.120 loss_D = 0.388
+INFO: iter =     6590/   11000, loss_seg = 0.110, loss_adv = 2.031 loss_D = 0.476
+INFO: iter =     6600/   11000, loss_seg = 0.114, loss_adv = 2.293 loss_D = 0.444
+INFO: iter =     6610/   11000, loss_seg = 0.079, loss_adv = 3.836 loss_D = 0.412
+INFO: iter =     6620/   11000, loss_seg = 0.132, loss_adv = 3.250 loss_D = 0.323
+INFO: iter =     6630/   11000, loss_seg = 0.173, loss_adv = 2.203 loss_D = 0.529
+INFO: iter =     6640/   11000, loss_seg = 0.112, loss_adv = 2.351 loss_D = 0.390
+INFO: iter =     6650/   11000, loss_seg = 0.065, loss_adv = 3.389 loss_D = 0.334
+INFO: iter =     6660/   11000, loss_seg = 0.039, loss_adv = 5.747 loss_D = 0.133
+INFO: iter =     6670/   11000, loss_seg = 0.149, loss_adv = 2.718 loss_D = 0.406
+INFO: iter =     6680/   11000, loss_seg = 0.119, loss_adv = 3.938 loss_D = 0.364
+INFO: iter =     6690/   11000, loss_seg = 0.126, loss_adv = 3.326 loss_D = 0.313
+INFO: iter =     6700/   11000, loss_seg = 0.096, loss_adv = 2.868 loss_D = 0.315
+INFO: iter =     6710/   11000, loss_seg = 0.151, loss_adv = 2.704 loss_D = 0.312
+INFO: iter =     6720/   11000, loss_seg = 0.170, loss_adv = 4.509 loss_D = 0.224
+INFO: iter =     6730/   11000, loss_seg = 0.222, loss_adv = 3.076 loss_D = 0.310
+INFO: iter =     6740/   11000, loss_seg = 0.186, loss_adv = 2.149 loss_D = 0.472
+INFO: iter =     6750/   11000, loss_seg = 0.161, loss_adv = 2.806 loss_D = 0.375
+INFO: iter =     6760/   11000, loss_seg = 0.176, loss_adv = 4.844 loss_D = 0.265
+INFO: iter =     6770/   11000, loss_seg = 0.196, loss_adv = 2.344 loss_D = 0.325
+INFO: iter =     6780/   11000, loss_seg = 0.133, loss_adv = 2.632 loss_D = 0.458
+INFO: iter =     6790/   11000, loss_seg = 0.148, loss_adv = 3.811 loss_D = 0.275
+INFO: iter =     6800/   11000, loss_seg = 0.078, loss_adv = 2.813 loss_D = 0.385
+INFO: iter =     6810/   11000, loss_seg = 0.266, loss_adv = 2.507 loss_D = 0.429
+INFO: iter =     6820/   11000, loss_seg = 0.157, loss_adv = 4.108 loss_D = 0.327
+INFO: iter =     6830/   11000, loss_seg = 0.116, loss_adv = 6.288 loss_D = 0.215
+INFO: iter =     6840/   11000, loss_seg = 0.163, loss_adv = 2.713 loss_D = 0.378
+INFO: iter =     6850/   11000, loss_seg = 0.148, loss_adv = 2.744 loss_D = 0.349
+INFO: iter =     6860/   11000, loss_seg = 0.125, loss_adv = 2.746 loss_D = 0.461
+INFO: iter =     6870/   11000, loss_seg = 0.163, loss_adv = 2.494 loss_D = 0.488
+INFO: iter =     6880/   11000, loss_seg = 0.225, loss_adv = 2.575 loss_D = 0.525
+INFO: iter =     6890/   11000, loss_seg = 0.281, loss_adv = 2.841 loss_D = 0.450
+INFO: iter =     6900/   11000, loss_seg = 0.149, loss_adv = 3.026 loss_D = 0.264
+INFO: iter =     6910/   11000, loss_seg = 0.151, loss_adv = 2.402 loss_D = 0.388
+INFO: iter =     6920/   11000, loss_seg = 0.105, loss_adv = 2.574 loss_D = 0.499
+INFO: iter =     6930/   11000, loss_seg = 0.091, loss_adv = 2.933 loss_D = 0.346
+INFO: iter =     6940/   11000, loss_seg = 0.148, loss_adv = 2.349 loss_D = 0.484
+INFO: iter =     6950/   11000, loss_seg = 0.062, loss_adv = 3.443 loss_D = 0.300
+INFO: iter =     6960/   11000, loss_seg = 0.151, loss_adv = 2.545 loss_D = 0.367
+INFO: iter =     6970/   11000, loss_seg = 0.132, loss_adv = 3.451 loss_D = 0.371
+INFO: iter =     6980/   11000, loss_seg = 0.129, loss_adv = 2.921 loss_D = 0.409
+INFO: iter =     6990/   11000, loss_seg = 0.099, loss_adv = 3.749 loss_D = 0.311
+INFO: iter =     7000/   11000, loss_seg = 0.124, loss_adv = 2.483 loss_D = 0.480
+INFO: taking snapshot ...
+INFO: ===>road           :	75.35
+INFO: ===>sidewalk       :	38.4
+INFO: ===>building       :	84.77
+INFO: ===>wall           :	26.44
+INFO: ===>fence          :	33.68
+INFO: ===>pole           :	30.14
+INFO: ===>light          :	16.85
+INFO: ===>sign           :	14.74
+INFO: ===>vegetation     :	77.74
+INFO: ===>terrain        :	34.07
+INFO: ===>sky            :	93.35
+INFO: ===>person         :	36.15
+INFO: ===>rider          :	13.78
+INFO: ===>car            :	78.32
+INFO: ===>truck          :	54.74
+INFO: ===>bus            :	47.08
+INFO: ===>train          :	67.31
+INFO: ===>motocycle      :	54.21
+INFO: ===>bicycle        :	34.2
+INFO: ===> mIoU: 47.96
+INFO: iter =     7010/   11000, loss_seg = 0.130, loss_adv = 2.260 loss_D = 0.439
+INFO: iter =     7020/   11000, loss_seg = 0.123, loss_adv = 3.472 loss_D = 0.364
+INFO: iter =     7030/   11000, loss_seg = 0.064, loss_adv = 3.574 loss_D = 0.278
+INFO: iter =     7040/   11000, loss_seg = 0.191, loss_adv = 5.929 loss_D = 0.339
+INFO: iter =     7050/   11000, loss_seg = 0.189, loss_adv = 2.204 loss_D = 0.418
+INFO: iter =     7060/   11000, loss_seg = 0.108, loss_adv = 2.237 loss_D = 0.480
+INFO: iter =     7070/   11000, loss_seg = 0.090, loss_adv = 4.353 loss_D = 0.294
+INFO: iter =     7080/   11000, loss_seg = 0.066, loss_adv = 3.495 loss_D = 0.300
+INFO: iter =     7090/   11000, loss_seg = 0.232, loss_adv = 3.607 loss_D = 0.327
+INFO: iter =     7100/   11000, loss_seg = 0.089, loss_adv = 2.504 loss_D = 0.445
+INFO: iter =     7110/   11000, loss_seg = 0.153, loss_adv = 2.327 loss_D = 0.366
+INFO: iter =     7120/   11000, loss_seg = 0.214, loss_adv = 4.286 loss_D = 0.301
+INFO: iter =     7130/   11000, loss_seg = 0.202, loss_adv = 3.862 loss_D = 0.328
+INFO: iter =     7140/   11000, loss_seg = 0.200, loss_adv = 3.915 loss_D = 0.353
+INFO: iter =     7150/   11000, loss_seg = 0.169, loss_adv = 3.910 loss_D = 0.331
+INFO: iter =     7160/   11000, loss_seg = 0.108, loss_adv = 2.489 loss_D = 0.513
+INFO: iter =     7170/   11000, loss_seg = 0.200, loss_adv = 3.143 loss_D = 0.471
+INFO: iter =     7180/   11000, loss_seg = 0.158, loss_adv = 2.346 loss_D = 0.455
+INFO: iter =     7190/   11000, loss_seg = 0.143, loss_adv = 5.734 loss_D = 0.170
+INFO: iter =     7200/   11000, loss_seg = 0.126, loss_adv = 2.556 loss_D = 0.415
+INFO: iter =     7210/   11000, loss_seg = 0.135, loss_adv = 2.995 loss_D = 0.396
+INFO: iter =     7220/   11000, loss_seg = 0.119, loss_adv = 2.172 loss_D = 0.491
+INFO: iter =     7230/   11000, loss_seg = 0.163, loss_adv = 2.883 loss_D = 0.584
+INFO: iter =     7240/   11000, loss_seg = 0.104, loss_adv = 3.173 loss_D = 0.362
+INFO: iter =     7250/   11000, loss_seg = 0.106, loss_adv = 3.116 loss_D = 0.488
+INFO: iter =     7260/   11000, loss_seg = 0.152, loss_adv = 5.628 loss_D = 0.212
+INFO: iter =     7270/   11000, loss_seg = 0.084, loss_adv = 5.535 loss_D = 0.294
+INFO: iter =     7280/   11000, loss_seg = 0.099, loss_adv = 4.233 loss_D = 0.323
+INFO: iter =     7290/   11000, loss_seg = 0.079, loss_adv = 2.967 loss_D = 0.403
+INFO: iter =     7300/   11000, loss_seg = 0.109, loss_adv = 2.932 loss_D = 0.636
+INFO: iter =     7310/   11000, loss_seg = 0.085, loss_adv = 2.911 loss_D = 0.335
+INFO: iter =     7320/   11000, loss_seg = 0.316, loss_adv = 2.905 loss_D = 0.409
+INFO: iter =     7330/   11000, loss_seg = 0.086, loss_adv = 2.796 loss_D = 0.368
+INFO: iter =     7340/   11000, loss_seg = 0.067, loss_adv = 4.145 loss_D = 0.276
+INFO: iter =     7350/   11000, loss_seg = 0.072, loss_adv = 2.404 loss_D = 0.459
+INFO: iter =     7360/   11000, loss_seg = 0.206, loss_adv = 6.579 loss_D = 0.297
+INFO: iter =     7370/   11000, loss_seg = 0.115, loss_adv = 2.457 loss_D = 0.404
+INFO: iter =     7380/   11000, loss_seg = 0.189, loss_adv = 3.841 loss_D = 0.387
+INFO: iter =     7390/   11000, loss_seg = 0.111, loss_adv = 3.871 loss_D = 0.402
+INFO: iter =     7400/   11000, loss_seg = 0.232, loss_adv = 2.534 loss_D = 0.638
+INFO: iter =     7410/   11000, loss_seg = 0.127, loss_adv = 3.752 loss_D = 0.355
+INFO: iter =     7420/   11000, loss_seg = 0.126, loss_adv = 3.647 loss_D = 0.423
+INFO: iter =     7430/   11000, loss_seg = 0.096, loss_adv = 2.627 loss_D = 0.531
+INFO: iter =     7440/   11000, loss_seg = 0.116, loss_adv = 3.712 loss_D = 0.355
+INFO: iter =     7450/   11000, loss_seg = 0.112, loss_adv = 3.746 loss_D = 0.394
+INFO: iter =     7460/   11000, loss_seg = 0.110, loss_adv = 3.549 loss_D = 0.306
+INFO: iter =     7470/   11000, loss_seg = 0.109, loss_adv = 2.238 loss_D = 0.513
+INFO: iter =     7480/   11000, loss_seg = 0.053, loss_adv = 2.495 loss_D = 0.512
+INFO: iter =     7490/   11000, loss_seg = 0.167, loss_adv = 3.458 loss_D = 0.491
+INFO: iter =     7500/   11000, loss_seg = 0.127, loss_adv = 5.037 loss_D = 0.300
+INFO: iter =     7510/   11000, loss_seg = 0.293, loss_adv = 6.069 loss_D = 0.298
+INFO: iter =     7520/   11000, loss_seg = 0.088, loss_adv = 3.072 loss_D = 0.398
+INFO: iter =     7530/   11000, loss_seg = 0.148, loss_adv = 3.048 loss_D = 0.343
+INFO: iter =     7540/   11000, loss_seg = 0.198, loss_adv = 5.818 loss_D = 0.293
+INFO: iter =     7550/   11000, loss_seg = 0.125, loss_adv = 2.668 loss_D = 0.397
+INFO: iter =     7560/   11000, loss_seg = 0.070, loss_adv = 3.930 loss_D = 0.233
+INFO: iter =     7570/   11000, loss_seg = 0.172, loss_adv = 4.292 loss_D = 0.359
+INFO: iter =     7580/   11000, loss_seg = 0.097, loss_adv = 2.149 loss_D = 0.480
+INFO: iter =     7590/   11000, loss_seg = 0.130, loss_adv = 5.094 loss_D = 0.318
+INFO: iter =     7600/   11000, loss_seg = 0.124, loss_adv = 3.030 loss_D = 0.491
+INFO: iter =     7610/   11000, loss_seg = 0.123, loss_adv = 4.127 loss_D = 0.266
+INFO: iter =     7620/   11000, loss_seg = 0.130, loss_adv = 2.610 loss_D = 0.408
+INFO: iter =     7630/   11000, loss_seg = 0.290, loss_adv = 3.180 loss_D = 0.342
+INFO: iter =     7640/   11000, loss_seg = 0.151, loss_adv = 4.053 loss_D = 0.359
+INFO: iter =     7650/   11000, loss_seg = 0.102, loss_adv = 2.665 loss_D = 0.415
+INFO: iter =     7660/   11000, loss_seg = 0.099, loss_adv = 4.117 loss_D = 0.289
+INFO: iter =     7670/   11000, loss_seg = 0.175, loss_adv = 2.744 loss_D = 0.348
+INFO: iter =     7680/   11000, loss_seg = 0.162, loss_adv = 2.626 loss_D = 0.345
+INFO: iter =     7690/   11000, loss_seg = 0.089, loss_adv = 4.138 loss_D = 0.343
+INFO: iter =     7700/   11000, loss_seg = 0.098, loss_adv = 3.654 loss_D = 0.318
+INFO: iter =     7710/   11000, loss_seg = 0.124, loss_adv = 4.879 loss_D = 0.247
+INFO: iter =     7720/   11000, loss_seg = 0.152, loss_adv = 3.496 loss_D = 0.318
+INFO: iter =     7730/   11000, loss_seg = 0.239, loss_adv = 2.751 loss_D = 0.527
+INFO: iter =     7740/   11000, loss_seg = 0.112, loss_adv = 3.788 loss_D = 0.281
+INFO: iter =     7750/   11000, loss_seg = 0.058, loss_adv = 2.998 loss_D = 0.312
+INFO: iter =     7760/   11000, loss_seg = 0.103, loss_adv = 3.942 loss_D = 0.338
+INFO: iter =     7770/   11000, loss_seg = 0.283, loss_adv = 3.040 loss_D = 0.952
+INFO: iter =     7780/   11000, loss_seg = 0.201, loss_adv = 2.549 loss_D = 0.454
+INFO: iter =     7790/   11000, loss_seg = 0.229, loss_adv = 4.633 loss_D = 0.186
+INFO: iter =     7800/   11000, loss_seg = 0.180, loss_adv = 3.644 loss_D = 0.311
+INFO: iter =     7810/   11000, loss_seg = 0.070, loss_adv = 3.464 loss_D = 0.344
+INFO: iter =     7820/   11000, loss_seg = 0.136, loss_adv = 2.351 loss_D = 0.384
+INFO: iter =     7830/   11000, loss_seg = 0.189, loss_adv = 2.578 loss_D = 0.596
+INFO: iter =     7840/   11000, loss_seg = 0.134, loss_adv = 1.951 loss_D = 0.509
+INFO: iter =     7850/   11000, loss_seg = 0.176, loss_adv = 2.694 loss_D = 0.392
+INFO: iter =     7860/   11000, loss_seg = 0.113, loss_adv = 2.832 loss_D = 0.409
+INFO: iter =     7870/   11000, loss_seg = 0.150, loss_adv = 7.279 loss_D = 0.191
+INFO: iter =     7880/   11000, loss_seg = 0.238, loss_adv = 4.590 loss_D = 0.298
+INFO: iter =     7890/   11000, loss_seg = 0.187, loss_adv = 3.701 loss_D = 0.299
+INFO: iter =     7900/   11000, loss_seg = 0.122, loss_adv = 2.458 loss_D = 0.360
+INFO: iter =     7910/   11000, loss_seg = 0.118, loss_adv = 2.637 loss_D = 0.396
+INFO: iter =     7920/   11000, loss_seg = 0.061, loss_adv = 2.372 loss_D = 0.416
+INFO: iter =     7930/   11000, loss_seg = 0.120, loss_adv = 3.774 loss_D = 0.269
+INFO: iter =     7940/   11000, loss_seg = 0.043, loss_adv = 1.985 loss_D = 0.440
+INFO: iter =     7950/   11000, loss_seg = 0.194, loss_adv = 3.254 loss_D = 0.467
+INFO: iter =     7960/   11000, loss_seg = 0.071, loss_adv = 2.622 loss_D = 0.405
+INFO: iter =     7970/   11000, loss_seg = 0.356, loss_adv = 2.735 loss_D = 0.403
+INFO: iter =     7980/   11000, loss_seg = 0.131, loss_adv = 2.201 loss_D = 0.584
+INFO: iter =     7990/   11000, loss_seg = 0.166, loss_adv = 3.904 loss_D = 0.246
+INFO: iter =     8000/   11000, loss_seg = 0.141, loss_adv = 2.979 loss_D = 0.353
+INFO: taking snapshot ...
+INFO: ===>road           :	74.89
+INFO: ===>sidewalk       :	37.92
+INFO: ===>building       :	85.17
+INFO: ===>wall           :	28.82
+INFO: ===>fence          :	34.22
+INFO: ===>pole           :	29.94
+INFO: ===>light          :	17.53
+INFO: ===>sign           :	15.89
+INFO: ===>vegetation     :	77.4
+INFO: ===>terrain        :	32.99
+INFO: ===>sky            :	93.53
+INFO: ===>person         :	37.93
+INFO: ===>rider          :	15.44
+INFO: ===>car            :	77.66
+INFO: ===>truck          :	54.84
+INFO: ===>bus            :	46.72
+INFO: ===>train          :	69.87
+INFO: ===>motocycle      :	56.83
+INFO: ===>bicycle        :	31.01
+INFO: ===> mIoU: 48.35
+INFO: iter =     8010/   11000, loss_seg = 0.168, loss_adv = 2.741 loss_D = 0.359
+INFO: iter =     8020/   11000, loss_seg = 0.179, loss_adv = 3.020 loss_D = 0.329
+INFO: iter =     8030/   11000, loss_seg = 0.141, loss_adv = 2.536 loss_D = 0.454
+INFO: iter =     8040/   11000, loss_seg = 0.117, loss_adv = 3.039 loss_D = 0.405
+INFO: iter =     8050/   11000, loss_seg = 0.173, loss_adv = 3.331 loss_D = 0.416
+INFO: iter =     8060/   11000, loss_seg = 0.137, loss_adv = 3.233 loss_D = 0.358
+INFO: iter =     8070/   11000, loss_seg = 0.109, loss_adv = 2.657 loss_D = 0.446
+INFO: iter =     8080/   11000, loss_seg = 0.176, loss_adv = 4.920 loss_D = 0.262
+INFO: iter =     8090/   11000, loss_seg = 0.148, loss_adv = 2.819 loss_D = 0.320
+INFO: iter =     8100/   11000, loss_seg = 0.106, loss_adv = 2.430 loss_D = 0.421
+INFO: iter =     8110/   11000, loss_seg = 0.119, loss_adv = 3.762 loss_D = 0.231
+INFO: iter =     8120/   11000, loss_seg = 0.148, loss_adv = 5.976 loss_D = 0.245
+INFO: iter =     8130/   11000, loss_seg = 0.107, loss_adv = 6.692 loss_D = 0.140
+INFO: iter =     8140/   11000, loss_seg = 0.168, loss_adv = 4.323 loss_D = 0.326
+INFO: iter =     8150/   11000, loss_seg = 0.214, loss_adv = 2.925 loss_D = 0.469
+INFO: iter =     8160/   11000, loss_seg = 0.077, loss_adv = 3.522 loss_D = 0.261
+INFO: iter =     8170/   11000, loss_seg = 0.086, loss_adv = 2.648 loss_D = 0.361
+INFO: iter =     8180/   11000, loss_seg = 0.186, loss_adv = 2.750 loss_D = 0.374
+INFO: iter =     8190/   11000, loss_seg = 0.154, loss_adv = 2.544 loss_D = 0.502
+INFO: iter =     8200/   11000, loss_seg = 0.109, loss_adv = 2.804 loss_D = 0.450
+INFO: iter =     8210/   11000, loss_seg = 0.130, loss_adv = 2.658 loss_D = 0.465
+INFO: iter =     8220/   11000, loss_seg = 0.094, loss_adv = 2.634 loss_D = 0.487
+INFO: iter =     8230/   11000, loss_seg = 0.114, loss_adv = 2.915 loss_D = 0.335
+INFO: iter =     8240/   11000, loss_seg = 0.210, loss_adv = 2.262 loss_D = 0.511
+INFO: iter =     8250/   11000, loss_seg = 0.107, loss_adv = 3.087 loss_D = 0.295
+INFO: iter =     8260/   11000, loss_seg = 0.086, loss_adv = 2.965 loss_D = 0.329
+INFO: iter =     8270/   11000, loss_seg = 0.102, loss_adv = 5.165 loss_D = 0.439
+INFO: iter =     8280/   11000, loss_seg = 0.146, loss_adv = 2.199 loss_D = 0.373
+INFO: iter =     8290/   11000, loss_seg = 0.121, loss_adv = 2.267 loss_D = 0.464
+INFO: iter =     8300/   11000, loss_seg = 0.273, loss_adv = 2.755 loss_D = 0.453
+INFO: iter =     8310/   11000, loss_seg = 0.135, loss_adv = 2.857 loss_D = 0.379
+INFO: iter =     8320/   11000, loss_seg = 0.158, loss_adv = 3.544 loss_D = 0.357
+INFO: iter =     8330/   11000, loss_seg = 0.129, loss_adv = 5.417 loss_D = 0.265
+INFO: iter =     8340/   11000, loss_seg = 0.125, loss_adv = 2.623 loss_D = 0.455
+INFO: iter =     8350/   11000, loss_seg = 0.102, loss_adv = 3.148 loss_D = 0.338
+INFO: iter =     8360/   11000, loss_seg = 0.189, loss_adv = 2.762 loss_D = 0.520
+INFO: iter =     8370/   11000, loss_seg = 0.190, loss_adv = 3.105 loss_D = 0.437
+INFO: iter =     8380/   11000, loss_seg = 0.195, loss_adv = 3.113 loss_D = 0.456
+INFO: iter =     8390/   11000, loss_seg = 0.131, loss_adv = 2.876 loss_D = 0.421
+INFO: iter =     8400/   11000, loss_seg = 0.098, loss_adv = 3.281 loss_D = 0.330
+INFO: iter =     8410/   11000, loss_seg = 0.192, loss_adv = 3.087 loss_D = 0.486
+INFO: iter =     8420/   11000, loss_seg = 0.256, loss_adv = 2.609 loss_D = 0.343
+INFO: iter =     8430/   11000, loss_seg = 0.124, loss_adv = 3.402 loss_D = 0.518
+INFO: iter =     8440/   11000, loss_seg = 0.126, loss_adv = 2.572 loss_D = 0.446
+INFO: iter =     8450/   11000, loss_seg = 0.164, loss_adv = 2.943 loss_D = 0.377
+INFO: iter =     8460/   11000, loss_seg = 0.154, loss_adv = 4.398 loss_D = 0.247
+INFO: iter =     8470/   11000, loss_seg = 0.142, loss_adv = 3.285 loss_D = 0.291
+INFO: iter =     8480/   11000, loss_seg = 0.045, loss_adv = 2.321 loss_D = 0.453
+INFO: iter =     8490/   11000, loss_seg = 0.142, loss_adv = 3.021 loss_D = 0.312
+INFO: iter =     8500/   11000, loss_seg = 0.133, loss_adv = 3.168 loss_D = 0.314
+INFO: iter =     8510/   11000, loss_seg = 0.163, loss_adv = 3.157 loss_D = 0.352
+INFO: iter =     8520/   11000, loss_seg = 0.146, loss_adv = 4.526 loss_D = 0.393
+INFO: iter =     8530/   11000, loss_seg = 0.077, loss_adv = 6.922 loss_D = 0.138
+INFO: iter =     8540/   11000, loss_seg = 0.279, loss_adv = 3.532 loss_D = 0.302
+INFO: iter =     8550/   11000, loss_seg = 0.136, loss_adv = 3.689 loss_D = 0.265
+INFO: iter =     8560/   11000, loss_seg = 0.166, loss_adv = 3.286 loss_D = 0.394
+INFO: iter =     8570/   11000, loss_seg = 0.103, loss_adv = 2.797 loss_D = 0.372
+INFO: iter =     8580/   11000, loss_seg = 0.158, loss_adv = 2.660 loss_D = 0.427
+INFO: iter =     8590/   11000, loss_seg = 0.125, loss_adv = 3.170 loss_D = 0.313
+INFO: iter =     8600/   11000, loss_seg = 0.229, loss_adv = 2.604 loss_D = 0.487
+INFO: iter =     8610/   11000, loss_seg = 0.103, loss_adv = 3.121 loss_D = 0.321
+INFO: iter =     8620/   11000, loss_seg = 0.094, loss_adv = 2.791 loss_D = 0.405
+INFO: iter =     8630/   11000, loss_seg = 0.164, loss_adv = 7.449 loss_D = 0.134
+INFO: iter =     8640/   11000, loss_seg = 0.157, loss_adv = 3.176 loss_D = 0.311
+INFO: iter =     8650/   11000, loss_seg = 0.183, loss_adv = 3.581 loss_D = 0.413
+INFO: iter =     8660/   11000, loss_seg = 0.128, loss_adv = 4.782 loss_D = 0.257
+INFO: iter =     8670/   11000, loss_seg = 0.088, loss_adv = 3.112 loss_D = 0.332
+INFO: iter =     8680/   11000, loss_seg = 0.068, loss_adv = 3.936 loss_D = 0.209
+INFO: iter =     8690/   11000, loss_seg = 0.053, loss_adv = 4.700 loss_D = 0.282
+INFO: iter =     8700/   11000, loss_seg = 0.056, loss_adv = 2.841 loss_D = 0.389
+INFO: iter =     8710/   11000, loss_seg = 0.248, loss_adv = 3.266 loss_D = 0.495
+INFO: iter =     8720/   11000, loss_seg = 0.066, loss_adv = 2.864 loss_D = 0.504
+INFO: iter =     8730/   11000, loss_seg = 0.052, loss_adv = 3.446 loss_D = 0.425
+INFO: iter =     8740/   11000, loss_seg = 0.088, loss_adv = 3.814 loss_D = 0.319
+INFO: iter =     8750/   11000, loss_seg = 0.169, loss_adv = 2.667 loss_D = 0.361
+INFO: iter =     8760/   11000, loss_seg = 0.073, loss_adv = 2.582 loss_D = 0.404
+INFO: iter =     8770/   11000, loss_seg = 0.182, loss_adv = 3.230 loss_D = 0.286
+INFO: iter =     8780/   11000, loss_seg = 0.147, loss_adv = 3.602 loss_D = 0.308
+INFO: iter =     8790/   11000, loss_seg = 0.073, loss_adv = 2.989 loss_D = 0.382
+INFO: iter =     8800/   11000, loss_seg = 0.120, loss_adv = 2.672 loss_D = 0.373
+INFO: iter =     8810/   11000, loss_seg = 0.157, loss_adv = 3.238 loss_D = 0.336
+INFO: iter =     8820/   11000, loss_seg = 0.174, loss_adv = 2.412 loss_D = 0.408
+INFO: iter =     8830/   11000, loss_seg = 0.158, loss_adv = 3.414 loss_D = 0.439
+INFO: iter =     8840/   11000, loss_seg = 0.057, loss_adv = 2.200 loss_D = 0.440
+INFO: iter =     8850/   11000, loss_seg = 0.026, loss_adv = 5.006 loss_D = 0.199
+INFO: iter =     8860/   11000, loss_seg = 0.104, loss_adv = 2.879 loss_D = 0.394
+INFO: iter =     8870/   11000, loss_seg = 0.142, loss_adv = 3.191 loss_D = 0.312
+INFO: iter =     8880/   11000, loss_seg = 0.082, loss_adv = 3.919 loss_D = 0.315
+INFO: iter =     8890/   11000, loss_seg = 0.163, loss_adv = 2.386 loss_D = 0.429
+INFO: iter =     8900/   11000, loss_seg = 0.167, loss_adv = 3.723 loss_D = 0.421
+INFO: iter =     8910/   11000, loss_seg = 0.162, loss_adv = 2.114 loss_D = 0.462
+INFO: iter =     8920/   11000, loss_seg = 0.203, loss_adv = 6.546 loss_D = 0.321
+INFO: iter =     8930/   11000, loss_seg = 0.208, loss_adv = 2.911 loss_D = 0.466
+INFO: iter =     8940/   11000, loss_seg = 0.085, loss_adv = 2.774 loss_D = 0.350
+INFO: iter =     8950/   11000, loss_seg = 0.190, loss_adv = 2.891 loss_D = 0.738
+INFO: iter =     8960/   11000, loss_seg = 0.066, loss_adv = 2.774 loss_D = 0.414
+INFO: iter =     8970/   11000, loss_seg = 0.193, loss_adv = 2.967 loss_D = 0.312
+INFO: iter =     8980/   11000, loss_seg = 0.117, loss_adv = 3.273 loss_D = 0.295
+INFO: iter =     8990/   11000, loss_seg = 0.168, loss_adv = 2.327 loss_D = 0.433
+INFO: iter =     9000/   11000, loss_seg = 0.244, loss_adv = 3.329 loss_D = 0.303
+INFO: taking snapshot ...
+INFO: ===>road           :	75.54
+INFO: ===>sidewalk       :	39.45
+INFO: ===>building       :	85.09
+INFO: ===>wall           :	27.93
+INFO: ===>fence          :	32.34
+INFO: ===>pole           :	30.34
+INFO: ===>light          :	16.44
+INFO: ===>sign           :	14.2
+INFO: ===>vegetation     :	76.76
+INFO: ===>terrain        :	34.07
+INFO: ===>sky            :	93.62
+INFO: ===>person         :	39.54
+INFO: ===>rider          :	16.94
+INFO: ===>car            :	78.57
+INFO: ===>truck          :	56.91
+INFO: ===>bus            :	51.31
+INFO: ===>train          :	70.7
+INFO: ===>motocycle      :	57.92
+INFO: ===>bicycle        :	32.81
+INFO: ===> mIoU: 48.97
+INFO: iter =     9010/   11000, loss_seg = 0.127, loss_adv = 4.588 loss_D = 0.347
+INFO: iter =     9020/   11000, loss_seg = 0.071, loss_adv = 4.776 loss_D = 0.326
+INFO: iter =     9030/   11000, loss_seg = 0.153, loss_adv = 3.799 loss_D = 0.239
+INFO: iter =     9040/   11000, loss_seg = 0.220, loss_adv = 5.607 loss_D = 0.257
+INFO: iter =     9050/   11000, loss_seg = 0.137, loss_adv = 6.418 loss_D = 0.251
+INFO: iter =     9060/   11000, loss_seg = 0.135, loss_adv = 4.181 loss_D = 0.368
+INFO: iter =     9070/   11000, loss_seg = 0.144, loss_adv = 2.852 loss_D = 0.364
+INFO: iter =     9080/   11000, loss_seg = 0.139, loss_adv = 2.666 loss_D = 0.381
+INFO: iter =     9090/   11000, loss_seg = 0.269, loss_adv = 4.241 loss_D = 0.264
+INFO: iter =     9100/   11000, loss_seg = 0.113, loss_adv = 4.105 loss_D = 0.290
+INFO: iter =     9110/   11000, loss_seg = 0.073, loss_adv = 4.747 loss_D = 0.250
+INFO: iter =     9120/   11000, loss_seg = 0.138, loss_adv = 3.771 loss_D = 0.397
+INFO: iter =     9130/   11000, loss_seg = 0.174, loss_adv = 2.566 loss_D = 0.482
+INFO: iter =     9140/   11000, loss_seg = 0.165, loss_adv = 6.223 loss_D = 0.190
+INFO: iter =     9150/   11000, loss_seg = 0.105, loss_adv = 2.588 loss_D = 0.443
+INFO: iter =     9160/   11000, loss_seg = 0.102, loss_adv = 3.552 loss_D = 0.304
+INFO: iter =     9170/   11000, loss_seg = 0.156, loss_adv = 2.173 loss_D = 0.460
+INFO: iter =     9180/   11000, loss_seg = 0.066, loss_adv = 4.207 loss_D = 0.326
+INFO: iter =     9190/   11000, loss_seg = 0.148, loss_adv = 3.088 loss_D = 0.323
+INFO: iter =     9200/   11000, loss_seg = 0.228, loss_adv = 2.790 loss_D = 0.612
+INFO: iter =     9210/   11000, loss_seg = 0.320, loss_adv = 5.642 loss_D = 0.253
+INFO: iter =     9220/   11000, loss_seg = 0.195, loss_adv = 3.940 loss_D = 0.526
+INFO: iter =     9230/   11000, loss_seg = 0.079, loss_adv = 6.803 loss_D = 0.202
+INFO: iter =     9240/   11000, loss_seg = 0.196, loss_adv = 2.361 loss_D = 0.475
+INFO: iter =     9250/   11000, loss_seg = 0.105, loss_adv = 3.187 loss_D = 0.290
+INFO: iter =     9260/   11000, loss_seg = 0.146, loss_adv = 3.081 loss_D = 0.308
+INFO: iter =     9270/   11000, loss_seg = 0.137, loss_adv = 3.016 loss_D = 0.356
+INFO: iter =     9280/   11000, loss_seg = 0.167, loss_adv = 2.931 loss_D = 0.449
+INFO: iter =     9290/   11000, loss_seg = 0.083, loss_adv = 3.003 loss_D = 0.385
+INFO: iter =     9300/   11000, loss_seg = 0.158, loss_adv = 3.557 loss_D = 0.310
+INFO: iter =     9310/   11000, loss_seg = 0.137, loss_adv = 3.116 loss_D = 0.324
+INFO: iter =     9320/   11000, loss_seg = 0.143, loss_adv = 3.103 loss_D = 0.394
+INFO: iter =     9330/   11000, loss_seg = 0.149, loss_adv = 3.051 loss_D = 0.409
+INFO: iter =     9340/   11000, loss_seg = 0.155, loss_adv = 2.389 loss_D = 0.478
+INFO: iter =     9350/   11000, loss_seg = 0.060, loss_adv = 3.018 loss_D = 0.401
+INFO: iter =     9360/   11000, loss_seg = 0.198, loss_adv = 6.962 loss_D = 0.380
+INFO: iter =     9370/   11000, loss_seg = 0.118, loss_adv = 3.694 loss_D = 0.205
+INFO: iter =     9380/   11000, loss_seg = 0.071, loss_adv = 2.533 loss_D = 0.427
+INFO: iter =     9390/   11000, loss_seg = 0.151, loss_adv = 3.917 loss_D = 0.298
+INFO: iter =     9400/   11000, loss_seg = 0.136, loss_adv = 4.695 loss_D = 0.303
+INFO: iter =     9410/   11000, loss_seg = 0.156, loss_adv = 2.668 loss_D = 0.373
+INFO: iter =     9420/   11000, loss_seg = 0.194, loss_adv = 2.883 loss_D = 0.388
+INFO: iter =     9430/   11000, loss_seg = 0.081, loss_adv = 4.957 loss_D = 0.262
+INFO: iter =     9440/   11000, loss_seg = 0.097, loss_adv = 2.362 loss_D = 0.423
+INFO: iter =     9450/   11000, loss_seg = 0.148, loss_adv = 3.695 loss_D = 0.345
+INFO: iter =     9460/   11000, loss_seg = 0.174, loss_adv = 4.026 loss_D = 0.368
+INFO: iter =     9470/   11000, loss_seg = 0.085, loss_adv = 2.845 loss_D = 0.363
+INFO: iter =     9480/   11000, loss_seg = 0.100, loss_adv = 2.943 loss_D = 0.328
+INFO: iter =     9490/   11000, loss_seg = 0.150, loss_adv = 2.961 loss_D = 0.363
+INFO: iter =     9500/   11000, loss_seg = 0.121, loss_adv = 3.171 loss_D = 0.330
+INFO: iter =     9510/   11000, loss_seg = 0.215, loss_adv = 3.958 loss_D = 0.319
+INFO: iter =     9520/   11000, loss_seg = 0.118, loss_adv = 2.844 loss_D = 0.439
+INFO: iter =     9530/   11000, loss_seg = 0.170, loss_adv = 2.502 loss_D = 0.592
+INFO: iter =     9540/   11000, loss_seg = 0.152, loss_adv = 4.017 loss_D = 0.242
+INFO: iter =     9550/   11000, loss_seg = 0.116, loss_adv = 2.377 loss_D = 0.579
+INFO: iter =     9560/   11000, loss_seg = 0.144, loss_adv = 2.519 loss_D = 0.399
+INFO: iter =     9570/   11000, loss_seg = 0.123, loss_adv = 3.258 loss_D = 0.469
+INFO: iter =     9580/   11000, loss_seg = 0.198, loss_adv = 3.483 loss_D = 0.308
+INFO: iter =     9590/   11000, loss_seg = 0.238, loss_adv = 2.801 loss_D = 0.400
+INFO: iter =     9600/   11000, loss_seg = 0.166, loss_adv = 3.054 loss_D = 0.339
+INFO: iter =     9610/   11000, loss_seg = 0.117, loss_adv = 4.866 loss_D = 0.267
+INFO: iter =     9620/   11000, loss_seg = 0.248, loss_adv = 3.385 loss_D = 0.419
+INFO: iter =     9630/   11000, loss_seg = 0.180, loss_adv = 2.357 loss_D = 0.341
+INFO: iter =     9640/   11000, loss_seg = 0.274, loss_adv = 2.893 loss_D = 0.307
+INFO: iter =     9650/   11000, loss_seg = 0.208, loss_adv = 3.066 loss_D = 0.321
+INFO: iter =     9660/   11000, loss_seg = 0.216, loss_adv = 2.876 loss_D = 0.446
+INFO: iter =     9670/   11000, loss_seg = 0.116, loss_adv = 2.876 loss_D = 0.374
+INFO: iter =     9680/   11000, loss_seg = 0.107, loss_adv = 3.238 loss_D = 0.323
+INFO: iter =     9690/   11000, loss_seg = 0.213, loss_adv = 2.633 loss_D = 0.475
+INFO: iter =     9700/   11000, loss_seg = 0.155, loss_adv = 3.169 loss_D = 0.325
+INFO: iter =     9710/   11000, loss_seg = 0.109, loss_adv = 3.925 loss_D = 0.257
+INFO: iter =     9720/   11000, loss_seg = 0.158, loss_adv = 3.946 loss_D = 0.250
+INFO: iter =     9730/   11000, loss_seg = 0.095, loss_adv = 6.262 loss_D = 0.303
+INFO: iter =     9740/   11000, loss_seg = 0.063, loss_adv = 3.686 loss_D = 0.300
+INFO: iter =     9750/   11000, loss_seg = 0.186, loss_adv = 3.783 loss_D = 0.250
+INFO: iter =     9760/   11000, loss_seg = 0.143, loss_adv = 2.627 loss_D = 0.419
+INFO: iter =     9770/   11000, loss_seg = 0.099, loss_adv = 2.907 loss_D = 0.326
+INFO: iter =     9780/   11000, loss_seg = 0.187, loss_adv = 4.422 loss_D = 0.281
+INFO: iter =     9790/   11000, loss_seg = 0.111, loss_adv = 2.444 loss_D = 0.512
+INFO: iter =     9800/   11000, loss_seg = 0.174, loss_adv = 4.316 loss_D = 0.308
+INFO: iter =     9810/   11000, loss_seg = 0.140, loss_adv = 3.379 loss_D = 0.216
+INFO: iter =     9820/   11000, loss_seg = 0.195, loss_adv = 2.484 loss_D = 0.404
+INFO: iter =     9830/   11000, loss_seg = 0.186, loss_adv = 5.897 loss_D = 0.204
+INFO: iter =     9840/   11000, loss_seg = 0.139, loss_adv = 6.179 loss_D = 0.210
+INFO: iter =     9850/   11000, loss_seg = 0.214, loss_adv = 4.212 loss_D = 0.332
+INFO: iter =     9860/   11000, loss_seg = 0.139, loss_adv = 2.637 loss_D = 0.507
+INFO: iter =     9870/   11000, loss_seg = 0.089, loss_adv = 4.618 loss_D = 0.309
+INFO: iter =     9880/   11000, loss_seg = 0.141, loss_adv = 5.441 loss_D = 0.412
+INFO: iter =     9890/   11000, loss_seg = 0.074, loss_adv = 3.276 loss_D = 0.308
+INFO: iter =     9900/   11000, loss_seg = 0.083, loss_adv = 3.979 loss_D = 0.245
+INFO: iter =     9910/   11000, loss_seg = 0.128, loss_adv = 2.937 loss_D = 0.640
+INFO: iter =     9920/   11000, loss_seg = 0.106, loss_adv = 4.905 loss_D = 0.265
+INFO: iter =     9930/   11000, loss_seg = 0.070, loss_adv = 3.292 loss_D = 0.378
+INFO: iter =     9940/   11000, loss_seg = 0.090, loss_adv = 2.860 loss_D = 0.463
+INFO: iter =     9950/   11000, loss_seg = 0.128, loss_adv = 2.920 loss_D = 0.315
+INFO: iter =     9960/   11000, loss_seg = 0.236, loss_adv = 3.949 loss_D = 0.500
+INFO: iter =     9970/   11000, loss_seg = 0.126, loss_adv = 5.260 loss_D = 0.430
+INFO: iter =     9980/   11000, loss_seg = 0.205, loss_adv = 3.763 loss_D = 0.319
+INFO: iter =     9990/   11000, loss_seg = 0.105, loss_adv = 3.838 loss_D = 0.308
+INFO: iter =    10000/   11000, loss_seg = 0.208, loss_adv = 3.190 loss_D = 0.373
+INFO: taking snapshot ...
+INFO: ===>road           :	75.47
+INFO: ===>sidewalk       :	38.39
+INFO: ===>building       :	84.48
+INFO: ===>wall           :	27.27
+INFO: ===>fence          :	32.03
+INFO: ===>pole           :	30.13
+INFO: ===>light          :	15.59
+INFO: ===>sign           :	15.57
+INFO: ===>vegetation     :	77.1
+INFO: ===>terrain        :	33.54
+INFO: ===>sky            :	93.11
+INFO: ===>person         :	37.92
+INFO: ===>rider          :	14.33
+INFO: ===>car            :	78.79
+INFO: ===>truck          :	53.45
+INFO: ===>bus            :	48.53
+INFO: ===>train          :	74.28
+INFO: ===>motocycle      :	56.87
+INFO: ===>bicycle        :	34.26
+INFO: ===> mIoU: 48.48
+INFO: iter =    10010/   11000, loss_seg = 0.103, loss_adv = 4.299 loss_D = 0.788
+INFO: iter =    10020/   11000, loss_seg = 0.131, loss_adv = 2.754 loss_D = 0.338
+INFO: iter =    10030/   11000, loss_seg = 0.178, loss_adv = 4.566 loss_D = 0.309
+INFO: iter =    10040/   11000, loss_seg = 0.139, loss_adv = 2.876 loss_D = 0.459
+INFO: iter =    10050/   11000, loss_seg = 0.109, loss_adv = 5.491 loss_D = 0.194
+INFO: iter =    10060/   11000, loss_seg = 0.107, loss_adv = 2.699 loss_D = 0.427
+INFO: iter =    10070/   11000, loss_seg = 0.141, loss_adv = 3.963 loss_D = 0.190
+INFO: iter =    10080/   11000, loss_seg = 0.177, loss_adv = 3.968 loss_D = 0.316
+INFO: iter =    10090/   11000, loss_seg = 0.111, loss_adv = 2.747 loss_D = 0.294
+INFO: iter =    10100/   11000, loss_seg = 0.141, loss_adv = 2.525 loss_D = 0.361
+INFO: iter =    10110/   11000, loss_seg = 0.146, loss_adv = 3.639 loss_D = 0.460
+INFO: iter =    10120/   11000, loss_seg = 0.230, loss_adv = 3.074 loss_D = 0.500
+INFO: iter =    10130/   11000, loss_seg = 0.154, loss_adv = 2.247 loss_D = 0.464
+INFO: iter =    10140/   11000, loss_seg = 0.130, loss_adv = 3.075 loss_D = 0.457
+INFO: iter =    10150/   11000, loss_seg = 0.174, loss_adv = 2.610 loss_D = 0.397
+INFO: iter =    10160/   11000, loss_seg = 0.086, loss_adv = 3.198 loss_D = 0.353
+INFO: iter =    10170/   11000, loss_seg = 0.102, loss_adv = 4.624 loss_D = 0.191
+INFO: iter =    10180/   11000, loss_seg = 0.176, loss_adv = 2.724 loss_D = 0.388
+INFO: iter =    10190/   11000, loss_seg = 0.112, loss_adv = 2.562 loss_D = 0.409
+INFO: iter =    10200/   11000, loss_seg = 0.045, loss_adv = 2.277 loss_D = 0.466
+INFO: iter =    10210/   11000, loss_seg = 0.229, loss_adv = 2.889 loss_D = 0.407
+INFO: iter =    10220/   11000, loss_seg = 0.105, loss_adv = 3.574 loss_D = 0.301
+INFO: iter =    10230/   11000, loss_seg = 0.225, loss_adv = 2.383 loss_D = 0.399
+INFO: iter =    10240/   11000, loss_seg = 0.144, loss_adv = 2.500 loss_D = 0.422
+INFO: iter =    10250/   11000, loss_seg = 0.095, loss_adv = 4.037 loss_D = 0.278
+INFO: iter =    10260/   11000, loss_seg = 0.122, loss_adv = 2.687 loss_D = 0.431
+INFO: iter =    10270/   11000, loss_seg = 0.110, loss_adv = 4.367 loss_D = 0.265
+INFO: iter =    10280/   11000, loss_seg = 0.156, loss_adv = 3.306 loss_D = 0.294
+INFO: iter =    10290/   11000, loss_seg = 0.112, loss_adv = 2.968 loss_D = 0.347
+INFO: iter =    10300/   11000, loss_seg = 0.139, loss_adv = 2.779 loss_D = 0.329
+INFO: iter =    10310/   11000, loss_seg = 0.149, loss_adv = 3.524 loss_D = 0.437
+INFO: iter =    10320/   11000, loss_seg = 0.135, loss_adv = 2.545 loss_D = 0.510
+INFO: iter =    10330/   11000, loss_seg = 0.212, loss_adv = 3.350 loss_D = 0.295
+INFO: iter =    10340/   11000, loss_seg = 0.163, loss_adv = 2.623 loss_D = 0.419
+INFO: iter =    10350/   11000, loss_seg = 0.117, loss_adv = 3.045 loss_D = 0.349
+INFO: iter =    10360/   11000, loss_seg = 0.090, loss_adv = 4.913 loss_D = 0.265
+INFO: iter =    10370/   11000, loss_seg = 0.226, loss_adv = 3.001 loss_D = 0.447
+INFO: iter =    10380/   11000, loss_seg = 0.098, loss_adv = 2.588 loss_D = 0.339
+INFO: iter =    10390/   11000, loss_seg = 0.228, loss_adv = 2.848 loss_D = 0.318
+INFO: iter =    10400/   11000, loss_seg = 0.135, loss_adv = 3.347 loss_D = 0.316
+INFO: iter =    10410/   11000, loss_seg = 0.193, loss_adv = 3.025 loss_D = 0.400
+INFO: iter =    10420/   11000, loss_seg = 0.169, loss_adv = 2.945 loss_D = 0.622
+INFO: iter =    10430/   11000, loss_seg = 0.122, loss_adv = 5.942 loss_D = 0.262
+INFO: iter =    10440/   11000, loss_seg = 0.083, loss_adv = 4.628 loss_D = 0.258
+INFO: iter =    10450/   11000, loss_seg = 0.084, loss_adv = 3.306 loss_D = 0.271
+INFO: iter =    10460/   11000, loss_seg = 0.168, loss_adv = 3.074 loss_D = 0.399
+INFO: iter =    10470/   11000, loss_seg = 0.123, loss_adv = 4.946 loss_D = 0.231
+INFO: iter =    10480/   11000, loss_seg = 0.210, loss_adv = 4.420 loss_D = 0.183
+INFO: iter =    10490/   11000, loss_seg = 0.198, loss_adv = 3.038 loss_D = 0.254
+INFO: iter =    10500/   11000, loss_seg = 0.089, loss_adv = 2.688 loss_D = 0.416
+INFO: iter =    10510/   11000, loss_seg = 0.143, loss_adv = 3.176 loss_D = 0.440
+INFO: iter =    10520/   11000, loss_seg = 0.224, loss_adv = 2.983 loss_D = 0.378
+INFO: iter =    10530/   11000, loss_seg = 0.148, loss_adv = 5.004 loss_D = 0.302
+INFO: iter =    10540/   11000, loss_seg = 0.210, loss_adv = 4.365 loss_D = 0.270
+INFO: iter =    10550/   11000, loss_seg = 0.142, loss_adv = 5.250 loss_D = 0.206
+INFO: iter =    10560/   11000, loss_seg = 0.104, loss_adv = 3.791 loss_D = 0.283
+INFO: iter =    10570/   11000, loss_seg = 0.091, loss_adv = 3.490 loss_D = 0.471
+INFO: iter =    10580/   11000, loss_seg = 0.061, loss_adv = 2.807 loss_D = 0.425
+INFO: iter =    10590/   11000, loss_seg = 0.247, loss_adv = 3.531 loss_D = 0.444
+INFO: iter =    10600/   11000, loss_seg = 0.135, loss_adv = 2.789 loss_D = 0.410
+INFO: iter =    10610/   11000, loss_seg = 0.092, loss_adv = 3.029 loss_D = 0.385
+INFO: iter =    10620/   11000, loss_seg = 0.095, loss_adv = 3.467 loss_D = 0.306
+INFO: iter =    10630/   11000, loss_seg = 0.157, loss_adv = 3.985 loss_D = 0.337
+INFO: iter =    10640/   11000, loss_seg = 0.178, loss_adv = 3.646 loss_D = 0.374
+INFO: iter =    10650/   11000, loss_seg = 0.108, loss_adv = 3.236 loss_D = 0.386
+INFO: iter =    10660/   11000, loss_seg = 0.173, loss_adv = 2.762 loss_D = 0.391
+INFO: iter =    10670/   11000, loss_seg = 0.263, loss_adv = 3.286 loss_D = 0.376
+INFO: iter =    10680/   11000, loss_seg = 0.198, loss_adv = 2.833 loss_D = 0.247
+INFO: iter =    10690/   11000, loss_seg = 0.054, loss_adv = 5.671 loss_D = 0.171
+INFO: iter =    10700/   11000, loss_seg = 0.101, loss_adv = 3.020 loss_D = 0.321
+INFO: iter =    10710/   11000, loss_seg = 0.154, loss_adv = 3.479 loss_D = 0.319
+INFO: iter =    10720/   11000, loss_seg = 0.084, loss_adv = 3.168 loss_D = 0.336
+INFO: iter =    10730/   11000, loss_seg = 0.098, loss_adv = 3.043 loss_D = 0.310
+INFO: iter =    10740/   11000, loss_seg = 0.116, loss_adv = 5.833 loss_D = 0.309
+INFO: iter =    10750/   11000, loss_seg = 0.148, loss_adv = 2.852 loss_D = 0.360
+INFO: iter =    10760/   11000, loss_seg = 0.171, loss_adv = 3.488 loss_D = 0.453
+INFO: iter =    10770/   11000, loss_seg = 0.097, loss_adv = 4.543 loss_D = 0.410
+INFO: iter =    10780/   11000, loss_seg = 0.158, loss_adv = 2.981 loss_D = 0.372
+INFO: iter =    10790/   11000, loss_seg = 0.160, loss_adv = 3.228 loss_D = 0.349
+INFO: iter =    10800/   11000, loss_seg = 0.107, loss_adv = 3.087 loss_D = 0.375
+INFO: iter =    10810/   11000, loss_seg = 0.120, loss_adv = 3.001 loss_D = 0.368
+INFO: iter =    10820/   11000, loss_seg = 0.152, loss_adv = 2.599 loss_D = 0.464
+INFO: iter =    10830/   11000, loss_seg = 0.120, loss_adv = 5.505 loss_D = 0.214
+INFO: iter =    10840/   11000, loss_seg = 0.111, loss_adv = 2.861 loss_D = 0.434
+INFO: iter =    10850/   11000, loss_seg = 0.218, loss_adv = 2.815 loss_D = 0.359
+INFO: iter =    10860/   11000, loss_seg = 0.266, loss_adv = 3.106 loss_D = 0.388
+INFO: iter =    10870/   11000, loss_seg = 0.069, loss_adv = 3.062 loss_D = 0.403
+INFO: iter =    10880/   11000, loss_seg = 0.217, loss_adv = 4.708 loss_D = 0.469
+INFO: iter =    10890/   11000, loss_seg = 0.075, loss_adv = 2.908 loss_D = 0.439
+INFO: iter =    10900/   11000, loss_seg = 0.146, loss_adv = 2.903 loss_D = 0.449
+INFO: iter =    10910/   11000, loss_seg = 0.123, loss_adv = 2.244 loss_D = 0.453
+INFO: iter =    10920/   11000, loss_seg = 0.237, loss_adv = 3.318 loss_D = 0.413
+INFO: iter =    10930/   11000, loss_seg = 0.101, loss_adv = 2.029 loss_D = 0.594
+INFO: iter =    10940/   11000, loss_seg = 0.123, loss_adv = 5.206 loss_D = 0.308
+INFO: iter =    10950/   11000, loss_seg = 0.162, loss_adv = 5.578 loss_D = 0.221
+INFO: iter =    10960/   11000, loss_seg = 0.126, loss_adv = 3.225 loss_D = 0.347
+INFO: iter =    10970/   11000, loss_seg = 0.158, loss_adv = 6.309 loss_D = 0.263
+INFO: iter =    10980/   11000, loss_seg = 0.171, loss_adv = 3.583 loss_D = 0.248
+INFO: iter =    10990/   11000, loss_seg = 0.227, loss_adv = 3.357 loss_D = 0.367
+INFO: save model ...
